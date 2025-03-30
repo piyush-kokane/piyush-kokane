@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>
-      <img width="500" src="/public/Tech-Stack.png" />
+      <img width="500" src="/assets/Tech-Stack.png" />
     </td>
     <td align="center">
       <br>

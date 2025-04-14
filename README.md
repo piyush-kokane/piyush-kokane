@@ -30,15 +30,15 @@
     <td align="center" width="500">
       <br><br><br><br>
       <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=17&duration=1&color=FFFFFF&vCenter=true&multiline=true&repeat=false&width=500&height=220&lines=
-        %E2%80%A2+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+MERN+Stack;
-        %E2%80%A2+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Android+Studio;
-        %E2%80%A2+%F0%9F%8C%B1+I%E2%80%99m+currently+studying+at+MIT-WPU;
-        %E2%80%A2+%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+on+cool+projects;
-        %E2%80%A2+%F0%9F%A4%94+I%E2%80%99m+looking+for+help+with+Android+Studio+(Kotlin);
-        %E2%80%A2+%F0%9F%91%BD+Ask+me+about+do+Alien's+exist;
-        %E2%80%8E%E2%80%A2+%F0%9F%93%AB+How+to+reach+me%3A+pjkokane21%40gmail.com;
-        %E2%80%A2+%F0%9F%98%84+Fun+fact%3A+I+started+programming+from+age+of+12;
-        %E2%80%A2+%E2%9A%A1+Fun+fact%3A+Before+that+i+was+into+hardware"
+        %E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+MERN+Stack;
+        %E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Android+Studio;
+        %E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%8C%B1+I%E2%80%99m+currently+studying+at+MIT-WPU;
+        %E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+on+cool+projects;
+        %E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%A4%94+I%E2%80%99m+looking+for+help+with+Android+Studio+(Kotlin);
+        %E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%BD+Ask+me+about+do+Alien's+exist;
+        %E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E%E2%80%A2+%F0%9F%93%AB+How+to+reach+me%3A+pjkokane21%40gmail.com;
+        %E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Fun+fact%3A+I+started+programming+from+age+of+12;
+        %E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%E2%9A%A1+Fun+fact%3A+Before+that+i+was+into+hardware"
       />
     </td>
   </tr>

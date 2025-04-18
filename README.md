@@ -8,26 +8,29 @@
   <tr>
     <td width="500">
       <h1 align="center">About Me</h1>
-      <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&width=500&lines=Welcome+to+my+GitHub!;I+❤️+coding;I+explore+cool+tech+projects;Let's+collaborate!" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&width=500&lines=Welcome+to+my+GitHub!;I+❤️+coding;I+explore+cool+tech+projects;Let's+collaborate!" />
       <p align="center">    
-      $\color{lightgreen}{\text{Building The Future}}$<br>
+      $\color{lightgreen}{\text{Building the future, one commit at a time}}$<br>
 I'm passionate <b>Full Stack Developer</b> with a
 strong technical background in web development
 and software engineering.<br>
+Additionally,‎  ‎ I ‎ have‎  hands-on ‎ experience ‎ ‎ with ‎ ‎ hardware<br>
+systems, ‎ ‎ ‎‎  including ‎‎  ‎ ‎ microcontrollers ‎ ‎‎  ‎ ‎ and ‎ ‎ ‎‎  ‎ processors<br>
 With my expertise in ‎ <b>MERN STACK, ‎ App development, ‎ AI,<br>
 ML, Game development</b>, I enjoy turning complex problems<br>
-into simple, beautiful, and intuitive solutions.<br>
-I'm always eager to learn new skills and collaborate on exciting projects.</p><br><br>
+into simple, beautiful, and intuitive solutions.<br><br>
+I'm always eager to learn new skills and collaborate<br>
+on exciting projects.</p><br><br>
     </td>
     <td width="500">
-      ‎ ‎ ‎ ‎ ‎ • 🔭 I’m currently working on ...<br>
-      ‎ ‎ ‎ ‎ ‎ • 🌱 I’m currently learning ...<br>
-      ‎ ‎ ‎ ‎ ‎ • 👯 I’m looking to collaborate on ...<br>
-      ‎ ‎ ‎ ‎ ‎ • 🤔 I’m looking for help with ...<br>
-      ‎ ‎ ‎ ‎ ‎ • 💬 Ask me about ...<br>
-      ‎ ‎ ‎ ‎ ‎ • 📫 How to reach me: ...<br>
-      ‎ ‎ ‎ ‎ ‎ • 😄 Pronouns: ...<br>
-      ‎ ‎ ‎ ‎ ‎ • ⚡ Fun fact: ...<br>
+      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 🔭 I’m currently working on ...<br>
+      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 🌱 I’m currently learning ...<br>
+      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 👯 I’m looking to collaborate on ...<br>
+      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 🤔 I’m looking for help with ...<br>
+      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 💬 Ask me about ...<br>
+      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎• 📫 How to reach me: ...<br>
+      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 😄 Pronouns: ...<br>
+      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • ⚡ Fun fact: ...<br>
     </td>
   </tr>
   <tr>

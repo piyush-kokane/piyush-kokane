@@ -7,17 +7,21 @@
 <table border="0">
   <tr>
     <td width="500">
-      <h2>About Me</h2>
-      <p>- 🔭 I’m currently working on ...</p>
-      <p>- 🌱 I’m currently learning ...</p>
-      <p>- 👯 I’m looking to collaborate on ...</p>
-      <p>- 🤔 I’m looking for help with ...</p>
-      <p>- 💬 Ask me about ...</p>
-      <p>- 📫 How to reach me: ...</p>
-      <p>- 😄 Pronouns: ...</p>
-      <p>- ⚡ Fun fact: ...</p>
+      <h1 align="center">About Me</h1>
+<p align="center">I'm passionate full stack developer with a strong technical background in web development and software engineering.
+With experience in technologies like MERN STACK, AI, ML, Game development, I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+I'm always eager to learn new skills and collaborate on exciting projects.</p><br><br>
     </td>
-    <td width="500"></td>
+    <td width="500">
+      ‎ ‎ ‎ ‎ ‎ • 🔭 I’m currently working on ...<br>
+      ‎ ‎ ‎ ‎ ‎ • 🌱 I’m currently learning ...<br>
+      ‎ ‎ ‎ ‎ ‎ • 👯 I’m looking to collaborate on ...<br>
+      ‎ ‎ ‎ ‎ ‎ • 🤔 I’m looking for help with ...<br>
+      ‎ ‎ ‎ ‎ ‎ • 💬 Ask me about ...<br>
+      ‎ ‎ ‎ ‎ ‎ • 📫 How to reach me: ...<br>
+      ‎ ‎ ‎ ‎ ‎ • 😄 Pronouns: ...<br>
+      ‎ ‎ ‎ ‎ ‎ • ⚡ Fun fact: ...<br>
+    </td>
   </tr>
   <tr>
     <td>Row 1, Cell 1</td>

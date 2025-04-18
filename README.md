@@ -2,25 +2,26 @@
 <p align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="150px"/>
 </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Piyush Kokane! </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Piyush Kokane!</h1>
 
 <table border="0">
   <tr>
     <td width="500">
-      <h1 align="center">About Me</h1>
+      <h1 align="center"><b>About Me</b></h1>
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&width=500&lines=Welcome+to+my+GitHub!;I+❤️+coding;I+explore+cool+tech+projects;Let's+collaborate!" />
       <p align="center">    
-      $\color{lightgreen}{\text{Building the future, one commit at a time}}$<br>
-I'm passionate <b>Full Stack Developer</b> with a
-strong technical background in web development
-and software engineering.<br>
-Additionally,‎  ‎ I ‎ have‎  hands-on ‎ experience ‎ ‎ with ‎ ‎ hardware<br>
-systems, ‎ ‎ ‎‎  including ‎‎  ‎ ‎ microcontrollers ‎ ‎‎  ‎ ‎ and ‎ ‎ ‎‎  ‎ processors<br>
-With my expertise in ‎ <b>MERN STACK, ‎ App development, ‎ AI,<br>
-ML, Game development</b>, I enjoy turning complex problems<br>
-into simple, beautiful, and intuitive solutions.<br><br>
-I'm always eager to learn new skills and collaborate<br>
-on exciting projects.</p><br><br>
+        $\color{lightgreen}{\text{Building the future, one commit at a time}}$<br>
+        I'm passionate <b>Full Stack Developer</b> with a
+        strong technical background in web development
+        and software engineering.<br>
+        Additionally,‎  ‎ I ‎ have‎  hands-on ‎ experience ‎ ‎ with ‎ ‎ hardware<br>
+        systems, ‎ ‎ ‎‎  including ‎‎  ‎ ‎ microcontrollers ‎ ‎‎  ‎ ‎ and ‎ ‎ ‎‎  ‎ processors<br>
+        With my expertise in ‎ <b>MERN STACK, ‎ App development, ‎ AI,<br>
+        ML, Game development</b>, I enjoy turning complex problems<br>
+        into simple, beautiful, and intuitive solutions.<br><br>
+        I'm always eager to learn new skills and collaborate<br>
+        on exciting projects.
+      </p><br><br>
     </td>
     <td width="500">
       ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 🔭 I’m currently working on ...<br>
@@ -34,12 +35,34 @@ on exciting projects.</p><br><br>
     </td>
   </tr>
   <tr>
-    <td>Row 1, Cell 1</td>
-    <td>Row 1, Cell 2</td>
+    <td>
+    </td>
+    <td>
+      <br><br><img src="https://readme-typing-svg.herokuapp.com?font=&weight=800&size=36&duration=1&pause=1000&color=F70000&center=true&width=500&lines=Tech+Stack" />
+      <p align="center"> 
+        $\color{orange}{\text{Building digital solutions from code to circuit}}$<br>
+        Expertise spanning from full-stack web development using<br>
+        MERN stack to mobile app development, AI/ML, and game<br>
+        development. My technical proficiency extends to hardware,<br>
+        where I work with microcontrollers and processors, enabling<br>
+        seamless integration of software and hardware solutions.
+      </p><br>
+    </td>
   </tr>
   <tr>
-    <td>Row 2, Cell 1</td>
-    <td>Row 2, Cell 2</td>
+    <td>
+      <br><br><img src="https://readme-typing-svg.herokuapp.com?font=&weight=800&size=36&duration=1&pause=1000&color=F70000&center=true&width=500&lines=social" />
+      <p align="center"> 
+        $\color{orange}{\text{Connecting is Fun — isn't it?}}$<br>
+        Welcome to my little corner of the internet.<br>
+        Mostly sharing bits of my life, techy stuff I’m working on,<br>
+        and the occasional food cravings.<br>
+        Half caffeine, half code, and always up for a good<br>
+        meme. Let’s keep it chill and real!
+      </p><br>
+    </td>
+    <td>
+    </td>
   </tr>
 </table>
 

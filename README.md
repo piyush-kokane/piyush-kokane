@@ -8,8 +8,15 @@
   <tr>
     <td width="500">
       <h1 align="center">About Me</h1>
-<p align="center">I'm passionate full stack developer with a strong technical background in web development and software engineering.
-With experience in technologies like MERN STACK, AI, ML, Game development, I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+      <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&width=500&lines=Welcome+to+my+GitHub!;I+❤️+coding;I+explore+cool+tech+projects;Let's+collaborate!" />
+      <p align="center">    
+      $\color{lightgreen}{\text{Building The Future}}$<br>
+I'm passionate <b>Full Stack Developer</b> with a
+strong technical background in web development
+and software engineering.<br>
+With my expertise in ‎ <b>MERN STACK, ‎ App development, ‎ AI,<br>
+ML, Game development</b>, I enjoy turning complex problems<br>
+into simple, beautiful, and intuitive solutions.<br>
 I'm always eager to learn new skills and collaborate on exciting projects.</p><br><br>
     </td>
     <td width="500">

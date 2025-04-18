@@ -1,18 +1,36 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"/> Hi, I'm Piyush Kokane! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!--
-**piyush-kokane/piyush-kokane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="150px"/>
+</p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Piyush Kokane! </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table border="0">
+  <tr>
+    <td width="500">
+      <h2>About Me</h2>
+      <p>- 🔭 I’m currently working on ...</p>
+      <p>- 🌱 I’m currently learning ...</p>
+      <p>- 👯 I’m looking to collaborate on ...</p>
+      <p>- 🤔 I’m looking for help with ...</p>
+      <p>- 💬 Ask me about ...</p>
+      <p>- 📫 How to reach me: ...</p>
+      <p>- 😄 Pronouns: ...</p>
+      <p>- ⚡ Fun fact: ...</p>
+    </td>
+    <td width="500"></td>
+  </tr>
+  <tr>
+    <td>Row 1, Cell 1</td>
+    <td>Row 1, Cell 2</td>
+  </tr>
+  <tr>
+    <td>Row 2, Cell 1</td>
+    <td>Row 2, Cell 2</td>
+  </tr>
+</table>
+
+
+
 
 
 # 💻 Tech Stack:

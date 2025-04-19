@@ -20,7 +20,7 @@
       ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 👯 I’m looking to collaborate on cool projects<br>
       ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 🤔 I’m looking for help with Android Studio (Kotlin)<br>
       ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 👽 Ask me about do Alien's exist<br>
-      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎• 📫 How to reach me: <a href="mailto:cooldev@gmail.com">pjkokane21@gmail.com</a><br>
+      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎• 📫 How to reach me: pjkokane21@gmail.com<br>
       ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 😄 Fun fact: I started programming from age of 12<br>
       ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • ⚡ Fun fact: Before that i was into hardwawre<br>
     </td>
@@ -62,6 +62,10 @@
   </td>
   <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-kokane&theme=dark&background=151b23&title_color=FFA500&text_color=a8fdf6&icon_color=90EE90&hide_border=true" alt="Github Streak" title="Github Streak"/> 
+  </td>
+</tr>
+<tr>
+  <td colspan="2">
   </td>
 </tr>
 </table>

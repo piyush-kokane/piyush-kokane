@@ -20,9 +20,8 @@
       ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 👯 I’m looking to collaborate on cool projects<br>
       ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 🤔 I’m looking for help with Android Studio (Kotlin)<br>
       ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 👽 Ask me about do Alien's exist<br>
-      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎• 📫 How to reach me: pjkokane21@gmail.com<br>
-      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 😄 Pronouns: ...<br>
-      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • ⚡ Fun fact: I started programming from age of 12<br>
+      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎• 📫 How to reach me: <a href="mailto:cooldev@gmail.com">pjkokane21@gmail.com</a><br>
+      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 😄 Fun fact: I started programming from age of 12<br>
       ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • ⚡ Fun fact: Before that i was into hardwawre<br>
     </td>
   </tr>

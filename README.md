@@ -11,17 +11,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&width=500&height=30&lines=Welcome+to+my+GitHub!;I+❤️+coding;I+explore+cool+tech+projects;Let's+collaborate!" />
       <p align="center">    
         $\color{lightgreen}{\text{Building the future, one commit at a time}}$<br>
-        I'm passionate <b>Full Stack Developer</b> with a
-        strong technical background in web development
-        and software engineering.<br>
-        Additionally,‎  ‎ I ‎ have‎  hands-on ‎ experience ‎ ‎ with ‎ ‎ hardware<br>
-        systems, ‎ ‎ ‎‎  including ‎‎  ‎ ‎ microcontrollers ‎ ‎‎  ‎ ‎ and ‎ ‎ ‎‎  ‎ processors<br>
-        With my expertise in ‎ <b>MERN STACK, ‎ App development, ‎ AI,<br>
-        ML, Game development</b>, I enjoy turning complex problems<br>
-        into simple, beautiful, and intuitive solutions.<br><br>
-        I'm always eager to learn new skills and collaborate<br>
-        on exciting projects.
-      </p><br><br>
+        <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=17&duration=1&color=FFFFFF&center=true&multiline=true&repeat=false&width=500&height=250&lines=I'm+passionate+Full+Stack+Developer+with+a+strong+technical;background+in+web+development+and+software+engineering.;Additionally%2C%E2%80%8E++%E2%80%8E+I+%E2%80%8E+have%E2%80%8E++hands-on+%E2%80%8E+experience+%E2%80%8E+%E2%80%8E+with+%E2%80%8E++hardware;systems%2C+%E2%80%8E+%E2%80%8E+%E2%80%8E%E2%80%8E++including+%E2%80%8E%E2%80%8E++%E2%80%8E+%E2%80%8E+microcontrollers+%E2%80%8E+%E2%80%8E%E2%80%8E++%E2%80%8E%E2%80%8E+and+%E2%80%8E+%E2%80%8E+%E2%80%8E++%E2%80%8E+processors;With+my+expertise+in+%E2%80%8E+MERN+STACK%2C+%E2%80%8E+App+development%2C+%E2%80%8EAI%2C;ML%2C+Game+development%2C+I++%E2%80%8Eenjoy++turning++%E2%80%8E+%E2%80%8Ecomplex++%E2%80%8E%E2%80%8E+%E2%80%8Eproblems;into+simple%2C+beautiful%2C+and+intuitive+solutions.;+;I'm+always+eager+to+learn+new+skills+and+collaborate;on+exciting+projects." /><br><br>
     </td>
     <td width="500">
       ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 🔭 I’m currently working on ...<br>

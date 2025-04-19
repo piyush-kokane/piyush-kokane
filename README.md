@@ -14,14 +14,16 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=17&duration=1&color=FFFFFF&center=true&multiline=true&repeat=false&width=500&height=250&lines=I'm+passionate+Full+Stack+Developer+with+a+strong+technical;background+in+web+development+and+software+engineering.;Additionally%2C%E2%80%8E++%E2%80%8E+I+%E2%80%8E+have%E2%80%8E++hands-on+%E2%80%8E+experience+%E2%80%8E+%E2%80%8E+with+%E2%80%8E++hardware;systems%2C+%E2%80%8E+%E2%80%8E+%E2%80%8E%E2%80%8E++including+%E2%80%8E%E2%80%8E++%E2%80%8E+%E2%80%8E+microcontrollers+%E2%80%8E+%E2%80%8E%E2%80%8E++%E2%80%8E%E2%80%8E+and+%E2%80%8E+%E2%80%8E+%E2%80%8E++%E2%80%8E+processors;With+my+expertise+in+%E2%80%8E+MERN+STACK%2C+%E2%80%8E+App+development%2C+%E2%80%8EAI%2C;ML%2C+Game+development%2C+I++%E2%80%8Eenjoy++turning++%E2%80%8E+%E2%80%8Ecomplex++%E2%80%8E%E2%80%8E+%E2%80%8Eproblems;into+simple%2C+beautiful%2C+and+intuitive+solutions.;+;I'm+always+eager+to+learn+new+skills+and+collaborate;on+exciting+projects." /><br><br>
     </td>
     <td width="500">
-      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 🔭 I’m currently working on ...<br>
-      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 🌱 I’m currently learning ...<br>
-      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 👯 I’m looking to collaborate on ...<br>
-      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 🤔 I’m looking for help with ...<br>
-      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 💬 Ask me about ...<br>
-      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎• 📫 How to reach me: ...<br>
+      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 🔭 I’m currently working on MERN Stack<br>
+      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 🌱 I’m currently learning Android Studio<br>
+      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 🌱 I’m currently studing at MIT-WPU<br>
+      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 👯 I’m looking to collaborate on cool projects<br>
+      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 🤔 I’m looking for help with Android Studio (Kotlin)<br>
+      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 👽 Ask me about do Alien's exist<br>
+      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎• 📫 How to reach me: pjkokane21@gmail.com<br>
       ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • 😄 Pronouns: ...<br>
-      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • ⚡ Fun fact: ...<br>
+      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • ⚡ Fun fact: I started programming from age of 12<br>
+      ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ • ⚡ Fun fact: Before that i was into hardwawre<br>
     </td>
   </tr>
   <tr>

@@ -9,6 +9,13 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=piyush-kokane&label=Views&color=red&style=flat" />
 <br>
 
+<p>
+  <img align="left" src="https://readme-typing-svg.herokuapp.com?font=&weight=800&size=42&duration=1&pause=1000&color=F70000&background=000000&center=true&width=450&lines=About+Me" />
+  <img align="right" src="https://readme-typing-svg.herokuapp.com?font=&weight=800&size=42&duration=1&pause=1000&color=F70000&background=000000&center=true&width=450&lines=About+Me" />
+
+</p>
+
+
 <table border="0">
   <tr>
     <td align="center" width="500">

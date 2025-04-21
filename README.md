@@ -3,17 +3,22 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="150px"/>
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Piyush Kokane!</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=&weight=800&size=42&duration=1&pause=1000&color=F70000&center=true&multiline=true&width=1000&lines=Hi,+I'm+Piyush+Kokane!" />
+
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Piyush Kokane!</h1><br>
+      <h3 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Piyush Kokane!</h3>
+    </summary>
+  </ul>
+</div>
 
 <a href="https://github.com/piyush-kokane"><img align="left" src="https://img.shields.io/github/followers/piyush-kokane?label=follow&style=social" /></a>
 <img align="right" src="https://komarev.com/ghpvc/?username=piyush-kokane&label=Views&color=red&style=flat" />
 <br>
 
-<p>
-  <img align="left" src="https://readme-typing-svg.herokuapp.com?font=&weight=800&size=42&duration=1&pause=1000&color=F70000&background=000000&center=true&width=450&lines=About+Me" />
-  <img align="right" src="https://readme-typing-svg.herokuapp.com?font=&weight=800&size=42&duration=1&pause=1000&color=F70000&background=000000&center=true&width=450&lines=About+Me" />
 
-</p>
 
 
 <table border="0">

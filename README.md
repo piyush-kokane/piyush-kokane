@@ -5,11 +5,15 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Piyush Kokane!</h1>
 
+<a href="https://github.com/piyush-kokane"><img align="left" src="https://img.shields.io/github/followers/piyush-kokane?label=follow&style=social" /></a>
+<img align="right" src="https://komarev.com/ghpvc/?username=piyush-kokane&label=Views&color=red&style=flat" />
+<br>
+
 <table border="0">
   <tr>
     <td align="center" width="500">
       <br><br>
-      <img src="https://readme-typing-svg.herokuapp.com?font=&weight=800&size=38&duration=1&pause=1000&color=F70000&center=true&width=500&lines=About+Me" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=&weight=800&size=42&duration=1&pause=1000&color=F70000&center=true&width=500&lines=About+Me" />
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&width=500&height=30&lines=Welcome+to+my+GitHub!;I+❤️+coding;I+explore+cool+tech+projects;Let's+collaborate!" />
       <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=17&duration=1&color=90EE90&center=true&multiline=true&repeat=false&width=500&height=26&lines=Building+the+future%2C+one+commit+at+a+time" />
       <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=17&duration=1&color=FFFFFF&center=true&multiline=true&repeat=false&width=500&height=250&lines=

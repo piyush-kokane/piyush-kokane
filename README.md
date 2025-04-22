@@ -62,6 +62,7 @@
     </td>
     <td>
       <br><br><img src="https://readme-typing-svg.herokuapp.com?font=&weight=800&size=38&duration=1&pause=1000&color=F70000&center=true&width=500&lines=Tech+Stack" />
+      <img src="/Tech-Stack-Dark" />
       <p align="center"> 
         $\color{orange}{\text{Building digital solutions from code to circuit}}$<br>
         Expertise spanning from full-stack web development using<br>

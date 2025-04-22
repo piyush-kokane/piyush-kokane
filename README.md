@@ -3,7 +3,7 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="150px"/>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=&weight=800&size=42&duration=1&pause=1000&color=F70000&center=true&multiline=true&width=1000&lines=Hi,+I'm+Piyush+Kokane!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&color=F70000&center=true&multiline=true&width=1000&lines=Hi,+I'm+Piyush+Kokane!" />
 
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
@@ -24,11 +24,11 @@
 <table border="0">
   <tr>
     <td align="center" width="500">
-      <br><br>
-      <img src="https://readme-typing-svg.herokuapp.com?font=&weight=800&size=42&duration=1&pause=1000&color=F70000&center=true&width=500&lines=About+Me" />
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&width=500&height=30&lines=Welcome+to+my+GitHub!;I+❤️+coding;I+explore+cool+tech+projects;Let's+collaborate!" />
-      <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=17&duration=1&color=90EE90&center=true&multiline=true&repeat=false&width=500&height=26&lines=Building+the+future%2C+one+commit+at+a+time" />
-      <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=17&duration=1&color=FFFFFF&center=true&multiline=true&repeat=false&width=500&height=250&lines=
+      <br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&color=F70000&background=000000&center=true&multiline=true&width=500&lines=About+Me" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF00&background=000000&center=true&multiline=false&width=500&height=27&lines=Welcome+to+my+GitHub!;I+❤️+coding;I+explore+cool+tech+projects;Let's+collaborate!" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=17&duration=1&color=90EE90&background=000000&center=true&multiline=true&repeat=false&width=500&height=26&lines=Building+the+future%2C+one+commit+at+a+time" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=17&duration=1&color=FFFFFF&background=000000&center=true&multiline=true&repeat=false&width=500&height=250&lines=
         I'm+passionate+Full+Stack+Developer+with+a+strong+technical;
         background+in+web+development+and+software+engineering.;
         Additionally%2C%E2%80%8E++%E2%80%8E+I+%E2%80%8E+have%E2%80%8E++hands-on+%E2%80%8E+experience+%E2%80%8E+%E2%80%8E+with+%E2%80%8E++hardware;

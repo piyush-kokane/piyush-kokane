@@ -1,20 +1,25 @@
-
+<!-- GIF -->
 <p align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="150px"/>
 </p>
 
+
+<!-- Name & Title -->
 <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&color=ffffff&center=true&multiline=true&width=1000&height=60&lines=Hi,+I'm+Piyush+Kokane!" />
 <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=22&duration=1&pause=1000&color=00ff00&center=true&multiline=false&width=1000&height=32&lines=~+A+Full+Stack+Developer+~" />
 
 
+<!-- Follow & Views -->
 <a href="https://github.com/piyush-kokane"><img align="left" src="https://img.shields.io/github/followers/piyush-kokane?label=follow&style=social" /></a>
 <img align="right" src="https://komarev.com/ghpvc/?username=piyush-kokane&label=Views&color=red&style=flat" />
 <br>
+
 
 <table border="0">
   <tr>
     <td align="center" width="500">
       <br>
+      <!-- About Me -->
       <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&color=F70000&center=true&multiline=true&width=500&height=70&lines=About+Me" />
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&multiline=false&width=500&height=27&lines=Welcome+to+my+GitHub!;I+❤️+coding;I+explore+cool+tech+projects;Let's+collaborate!" />
       $\color{lightgreen}{\text{Building the future one commit at a time}}$<br>
@@ -52,6 +57,7 @@
     </td>
     <td align="center">
       <br>
+      <!-- Tech Stack -->
       <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&color=F70000&center=true&multiline=true&width=500&height=70&lines=Tech+Stack" />
       $\color{orange}{\text{Building digital solutions from code to circuit}}$<br>
       <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=16&duration=1&color=FFFFFF&center=true&multiline=true&repeat=false&width=500&height=150&lines=Expertise+spanning+from+%E2%80%8E+full-stack+%E2%80%8E+web+%E2%80%8E+development+using;MERN+stack+%E2%80%8E+to+%E2%80%8E+mobile+app+development%2C%E2%80%8E++AI%2FML%2C%E2%80%8E++and+%E2%80%8E%E2%80%8E+game;development.+My+technical+proficiency+extends+to+%E2%80%8E+hardware%2C;where+I+work+with+microcontrollers+and+processors%2C+enabling;seamless+integration+of+software+and+hardware+solutions." />
@@ -61,6 +67,7 @@
   <tr>
     <td align="center">
       <br>
+      <!-- Social -->
       <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&color=F70000&center=true&multiline=true&width=500&height=70&lines=Social" />
       $\color{orange}{\text{Connecting is Fun — isn’t it?}}$<br>
       <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=16&duration=1&color=FFFFFF&center=true&multiline=true&repeat=false&width=500&height=150&lines=Welcome+to+my+little+corner+of+the+internet.;Mostly+sharing+bits+of+my+life%2C+techy+stuff+I%E2%80%99m+working+on%2C;and+the+occasional+food+cravings.;Half+caffeine%2C+half+code%2C+and+always+up+for+a+good;meme.+Let%E2%80%99s+keep+it+chill+and+real!" />
@@ -71,15 +78,18 @@
   </tr>
   <tr>
     <td>
+      <!-- My Stats -->
       <img src="https://github-readme-stats.vercel.app/api?username=piyush-kokane&show_icons=true&theme=dark&hide_border=true&bg_color=151b23&title_color=fb8c00&text_color=ffffdd&icon_color=90EE90&include_all_commits=true&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
     </td>
     <td>
+      <!-- My Streak -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-kokane&theme=dark&background=151b23&title_color=FFA500&text_color=a8fdf6&icon_color=90EE90&hide_border=true" alt="Github Streak" title="Github Streak"/> 
     </td>
   </tr>
   <tr>
     <td  align="center" colspan="2">
       <br>
+      <!-- Trophies -->
       <img src="https://github-profile-trophy.vercel.app/?username=piyush-kokane&theme=radical&no-frame=true&no-bg=true&margin-w=4"/> 
       <br>
     </td>

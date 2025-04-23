@@ -87,11 +87,16 @@
     </td>
   </tr>
   <tr>
-    <td  align="center" colspan="2">
+    <td colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-kokane&theme=react-dark&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
       <br>
       <!-- Trophies -->
       <img src="https://github-profile-trophy.vercel.app/?username=piyush-kokane&theme=radical&no-frame=true&no-bg=true&margin-w=4"/> 
-      <br>
+      <br><br>
     </td>
   </tr>
 </table>

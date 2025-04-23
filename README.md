@@ -70,18 +70,20 @@
     </td>
   </tr>
   <tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=piyush-kokane&show_icons=true&theme=dark&hide_border=true&bg_color=151b23&title_color=fb8c00&text_color=ffffdd&icon_color=90EE90&include_all_commits=true&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
-
-  </td>
-  <td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=piyush-kokane&show_icons=true&theme=dark&hide_border=true&bg_color=151b23&title_color=fb8c00&text_color=ffffdd&icon_color=90EE90&include_all_commits=true&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
+    </td>
+    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-kokane&theme=dark&background=151b23&title_color=FFA500&text_color=a8fdf6&icon_color=90EE90&hide_border=true" alt="Github Streak" title="Github Streak"/> 
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-  </td>
-</tr>
+    </td>
+  </tr>
+  <tr>
+    <td  align="center" colspan="2">
+      <br>
+      <img src="https://github-profile-trophy.vercel.app/?username=piyush-kokane&theme=radical&no-frame=true&no-bg=true&margin-w=4"/> 
+      <br>
+    </td>
+  </tr>
 </table>
 
 
@@ -89,18 +91,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-kokane&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-# 💻 Tech Stack:
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=piyush-kokane&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=piyush-kokane&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=radical&quote=Why+do+it+by+hand+in+ten+minutes+when+you+can+automate+it+in+ten+hours?&author=My+thoughts+everyday" />
+</p>

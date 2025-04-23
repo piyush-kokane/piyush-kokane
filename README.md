@@ -34,7 +34,7 @@
     </td>
     <td align="center" width="500">
       <br><br><br><br>
-      <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=16&duration=1&color=FFFFFF&vCenter=true&multiline=true&repeat=false&width=400&height=220&lines=
+      <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=16&duration=1&color=FFFFFF&vCenter=true&multiline=true&repeat=false&width=500&height=220&lines=
         %E2%80%A2+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+MERN+Stack;
         %E2%80%A2+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Android+Studio;
         %E2%80%A2+%F0%9F%8C%B1+I%E2%80%99m+currently+studying+at+MIT-WPU;

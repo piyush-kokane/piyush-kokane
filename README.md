@@ -3,23 +3,13 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="150px"/>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&color=F70000&center=true&multiline=true&width=1000&lines=Hi,+I'm+Piyush+Kokane!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&color=ffffff&center=true&multiline=true&width=1000&height=60&lines=Hi,+I'm+Piyush+Kokane!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=22&duration=1&pause=1000&color=00ff00&center=true&multiline=false&width=1000&height=32&lines=~+A+Full+Stack+Developer+~" />
 
-<div id="user-content-toc">
-  <ul align="center" style="list-style: none;">
-    <summary>
-      <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Piyush Kokane!</h1><br>
-      <h3 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Piyush Kokane!</h3>
-    </summary>
-  </ul>
-</div>
 
 <a href="https://github.com/piyush-kokane"><img align="left" src="https://img.shields.io/github/followers/piyush-kokane?label=follow&style=social" /></a>
 <img align="right" src="https://komarev.com/ghpvc/?username=piyush-kokane&label=Views&color=red&style=flat" />
 <br>
-
-
-
 
 <table border="0">
   <tr>

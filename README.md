@@ -1,4 +1,5 @@
 
+<br><br>
 <p align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="150px"/>
 </p>
@@ -51,6 +52,12 @@
     <td>
     </td>
     <td align="center">
+      <br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&color=F70000&center=true&multiline=true&width=500&height=70&lines=Tech+Stack" />
+      $\color{orange}{\text{Building digital solutions from code to circuit}}$<br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=16&duration=1&color=FFFFFF&center=true&multiline=true&repeat=false&width=500&height=200&lines=Expertise+spanning+from+%E2%80%8E+full-stack+%E2%80%8E+web+%E2%80%8E+development+using;MERN+stack+%E2%80%8E+to+%E2%80%8E+mobile+app+development%2C%E2%80%8E++AI%2FML%2C%E2%80%8E++and+%E2%80%8E%E2%80%8E+game;development.+My+technical+proficiency+extends+to+%E2%80%8E+hardware%2C;where+I+work+with+microcontrollers+and+processors%2C+enabling;seamless+integration+of+software+and+hardware+solutions."
+      />
+      <br><br>
       <br><br><img src="https://readme-typing-svg.herokuapp.com?font=&weight=800&size=38&duration=1&pause=1000&color=F70000&center=true&width=500&lines=Tech+Stack" />
       <img width="420" src="public/Tech-Stack-Dark.png" />
       <p align="center"> 

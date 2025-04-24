@@ -69,16 +69,17 @@
   <tr>
     <td>
       <!-- My Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=piyush-kokane&show_icons=true&theme=dark&hide_border=true&bg_color=151b23&title_color=fb8c00&text_color=ffffdd&icon_color=90EE90&include_all_commits=true&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
+      <img src="https://github-readme-stats.vercel.app/api?username=piyush-kokane&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffdd&icon_color=90EE90&include_all_commits=true&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
     </td>
     <td>
       <!-- My Streak -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-kokane&theme=dark&background=151b23&title_color=FFA500&text_color=a8fdf6&icon_color=90EE90&hide_border=true" alt="Github Streak" title="Github Streak"/> 
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-kokane&theme=dark&background=00000000&title_color=FFA500&text_color=a8fdf6&icon_color=90EE90&hide_border=true" alt="Github Streak" title="Github Streak"/> 
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-kokane&bg_color=00000000&hide_border=true&color=ffffff&point=aaaaaa&title_color=FFA500&line=FFA500&area_color=FFA500&area=true" />
+      <!-- Contribution Graph -->
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-kokane&bg_color=00000000&hide_border=true&color=ffffff&point=cccccc&title_color=FFA500&line=FFA500&area_color=FFA500&area=true" />
     </td>
   </tr>
   <tr>

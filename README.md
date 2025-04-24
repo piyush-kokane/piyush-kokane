@@ -29,7 +29,7 @@
     </td>
     <td align="center" width="500">
       <br><br><br><br>
-      <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=16&duration=1&color=FFFFFF&vCenter=true&multiline=true&repeat=false&width=500&height=220&lines=
+      <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=17&duration=1&color=FFFFFF&vCenter=true&multiline=true&repeat=false&width=500&height=220&lines=
         %E2%80%A2+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+MERN+Stack;
         %E2%80%A2+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Android+Studio;
         %E2%80%A2+%F0%9F%8C%B1+I%E2%80%99m+currently+studying+at+MIT-WPU;
@@ -49,8 +49,8 @@
       <br>
       <!-- Tech Stack -->
       <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&color=F70000&center=true&multiline=true&width=500&height=70&lines=Tech+Stack" />
-      $\color{orange}{\text{Building digital solutions from code to circuit}}$<br>
-      <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=16&duration=1&color=FFFFFF&center=true&multiline=true&repeat=false&width=500&height=150&lines=  Expertise+spanning+from+%E2%80%8E+full-stack+%E2%80%8E+web+%E2%80%8E+development+using;  MERN+stack+%E2%80%8E+to+%E2%80%8E+mobile+app+development%2C%E2%80%8E++AI%2FML%2C%E2%80%8E++and+%E2%80%8E%E2%80%8E+game;  development.+My+technical+proficiency+extends+to+%E2%80%8E+hardware%2C;  where+I+work+with+microcontrollers+and+processors%2C+enabling;  seamless+integration+of+software+and+hardware+solutions." />
+      <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=18&duration=1&color=fb8c00&center=true&multiline=true&repeat=false&width=500&height=27&lines=Building+digital+solutions+from+code+to+circuit" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=17&duration=1&color=FFFFFF&center=true&multiline=true&repeat=false&width=500&height=150&lines=  Expertise+spanning+from+%E2%80%8E+full-stack+%E2%80%8E+web+%E2%80%8E+development+using;  MERN+stack+%E2%80%8E+to+%E2%80%8E+mobile+app+development%2C%E2%80%8E++AI%2FML%2C%E2%80%8E++and+%E2%80%8E%E2%80%8E+game;  development.+My+technical+proficiency+extends+to+%E2%80%8E+hardware%2C;  where+I+work+with+microcontrollers+and+processors%2C+enabling;  seamless+integration+of+software+and+hardware+solutions." />
       <br>
     </td>
   </tr>
@@ -60,7 +60,8 @@
       <!-- Social -->
       <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&color=F70000&center=true&multiline=true&width=500&height=70&lines=Social" />
       $\color{orange}{\text{Connecting is Fun — isn’t it?}}$<br>
-      <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=16&duration=1&color=FFFFFF&center=true&multiline=true&repeat=false&width=500&height=150&lines=  Welcome+to+my+little+corner+of+the+internet.;  Mostly+sharing+bits+of+my+life%2C+techy+stuff+I%E2%80%99m+working+on%2C;  and+the+occasional+food+cravings.;  Half+caffeine%2C+half+code%2C+and+always+up+for+a+good;  meme.+Let%E2%80%99s+keep+it+chill+and+real!" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=18&duration=1&color=fb8c00&center=true&multiline=true&repeat=false&width=500&height=27&lines=Connecting+is+Fun+—+isn’t+it?" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=17&duration=1&color=FFFFFF&center=true&multiline=true&repeat=false&width=500&height=150&lines=  Welcome+to+my+little+corner+of+the+internet.;  Mostly+sharing+bits+of+my+life%2C+techy+stuff+I%E2%80%99m+working+on%2C;  and+the+occasional+food+cravings.;  Half+caffeine%2C+half+code%2C+and+always+up+for+a+good;  meme.+Let%E2%80%99s+keep+it+chill+and+real!" />
       <br>
     </td>
     <td>

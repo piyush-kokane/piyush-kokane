@@ -59,13 +59,13 @@
       <br>
       <!-- Social -->
       <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&color=F70000&center=true&multiline=true&width=500&height=70&lines=Social" />
-      $\color{orange}{\text{Connecting is Fun — isn’t it?}}$<br>
       <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=18&duration=1&color=fb8c00&center=true&multiline=true&repeat=false&width=500&height=27&lines=Connecting+is+Fun+—+isn’t+it?" />
       <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=17&duration=1&color=FFFFFF&center=true&multiline=true&repeat=false&width=500&height=150&lines=  Welcome+to+my+little+corner+of+the+internet.;  Mostly+sharing+bits+of+my+life%2C+techy+stuff+I%E2%80%99m+working+on%2C;  and+the+occasional+food+cravings.;  Half+caffeine%2C+half+code%2C+and+always+up+for+a+good;  meme.+Let%E2%80%99s+keep+it+chill+and+real!" />
       <br>
     </td>
     <td>
-    </td>
+       $\color{orange}{\text{Connecting}}$
+   </td>
   </tr>
   <tr>
     <td>

@@ -70,11 +70,23 @@
   <tr>
     <td>
       <!-- My Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=piyush-kokane&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffdd&icon_color=90EE90&include_all_commits=true&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
+      <img src="https://github-readme-stats.vercel.app/api?username=piyush-kokane&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffdd&icon_color=90EE90&include_all_commits=true&count_private=false&card_width=500" />  
+      <!-- Most Used Language -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-kokane&theme=dark&bg_color=00000000&title_color=FFA500&text_color=ffffff&hide_border=true&include_all_commits=true&count_private=false&layout=compact&card_width=500" />  
     </td>
-    <td>
+    <td align="center">
       <!-- My Streak -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-kokane&theme=dark&background=00000000&title_color=FFA500&text_color=a8fdf6&icon_color=90EE90&hide_border=true" alt="Github Streak" title="Github Streak"/> 
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-kokane&theme=dark&background=00000000&title_color=FFA500&text_color=a8fdf6&icon_color=90EE90&hide_border=true" /> 
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- Most Used Language -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-kokane&theme=dark&bg_color=00000000&title_color=FFA500&text_color=ffffff&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />  
+    </td>
+    <td align="center">
+      <!-- Most Contributed Repo -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-kokane&theme=dark&background=00000000&title_color=FFA500&text_color=a8fdf6&icon_color=90EE90&hide_border=true" alt="Github Streak" /> 
     </td>
   </tr>
   <tr>

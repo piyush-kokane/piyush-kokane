@@ -43,7 +43,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img width="500" src="/assets/Tech-Stack.png" />
     </td>
     <td align="center">

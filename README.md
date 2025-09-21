@@ -1,3 +1,21 @@
+<details>
+  <summary>📂 Click to expand</summary>
+
+  Here is the hidden content that appears when you expand the dropdown.  
+  You can put **text, code blocks, images, links**, or even lists here.
+
+  console.log("Hello, GitHub!");
+</details>
+
+<!-- Follow & Views -->
+<a href="https://github.com/piyush-kokane"><img align="right" src="https://img.shields.io/github/followers/piyush-kokane?label=follow&style=social" /></a>
+<img align="right" src="https://komarev.com/ghpvc/?username=piyush-kokane&label=Views&color=red&style=flat" />
+<br>
+
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&background=FF000000&color=00FF00&center=true&vCenter=true&multiline=false&width=500&height=30&lines=Welcome+to+my+GitHub!;I+❤️+coding;I+explore+cool+tech+projects;Let's+collaborate!" /> <br>
+
+
 <!-- GIF -->
 <p align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="150px"/>
@@ -8,11 +26,24 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&color=ffffff&center=true&multiline=true&width=1000&height=60&lines=Hi,+I'm+Piyush+Kokane!" />
 <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=22&duration=1&pause=1000&color=00ff00&center=true&multiline=false&width=1000&height=32&lines=~+A+Full+Stack+Developer+~" />
 
+<!-- About Me -->
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&background=FF000000&color=F70000&center=true&multiline=true&width=500&height=80&lines=About+Me" /> <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=18&duration=1&background=FF000000&color=fb8c00&center=true&vCenter=true&multiline=false&repeat=false&width=500&height=20&lines=Building+the+future+one+commit+at+a+time" /> <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=16&duration=1&color=FFFFFF&background=FF000000&center=true&multiline=true&repeat=false&width=500&height=250&lines=I'm%E2%80%8E+%E2%80%8E+passionate%E2%80%8E+%E2%80%8E+Full+Stack+Developer%E2%80%8E+%E2%80%8E+with+a%E2%80%8E+%E2%80%8E+strong+technical;background%E2%80%8E+%E2%80%8E+in%E2%80%8E+%E2%80%8E+web+development%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+software+engineering%2C;complemented+by%E2%80%8E+%E2%80%8E+experience+in%E2%80%8E+%E2%80%8E+UI%2FUX%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+Product+design.;Additionally%2C%E2%80%8E+%E2%80%8E+I+have%E2%80%8E%E2%80%8E+expertise%E2%80%8E+with+hardware+systems+allowing;me%E2%80%8E+%E2%80%8E+to+bridge%E2%80%8E+%E2%80%8E+the%E2%80%8E+%E2%80%8E+gap%E2%80%8E+%E2%80%8E+between%E2%80%8E+%E2%80%8E+software%E2%80%8E+%E2%80%8E+and%E2%80%8E%E2%80%8E+%E2%80%8E+hardware%E2%80%8E+%E2%80%8E+by;creating+integrated+solutions.+I+%E2%80%8Elove+turning+complex+problems;into+simple%2C+beautiful%2C+and+intuitive+solutions.;+;I'm+always+eager+to+learn+new+skills+and+collaborate;on+exciting+project" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=16&duration=1&color=FFFFFF&background=FF000000&multiline=true&repeat=false&width=500&height=250&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+MERN+Stack;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Android+Studio;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%8C%B1+I%E2%80%99m+currently+studying+at+MIT-WPU;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+on+cool+projects;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%A4%94+I%E2%80%99m+looking+for+help+with+Android+Studio+(Kotlin);%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Fun+fact%3A+I+started+programming+from+age+of+12;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%E2%9A%A1+Fun+fact%3A+Before+that+i+was+into+hardware" />
+</div>
 
-<!-- Follow & Views -->
-<a href="https://github.com/piyush-kokane"><img align="left" src="https://img.shields.io/github/followers/piyush-kokane?label=follow&style=social" /></a>
-<img align="right" src="https://komarev.com/ghpvc/?username=piyush-kokane&label=Views&color=red&style=flat" />
-<br>
+<!-- Tech Stack -->
+<div align="right">
+  <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&background=FF000000&color=F70000&center=true&multiline=true&width=500&height=80&lines=Tech+Stack" /> <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=18&duration=1&background=FF000000&color=fb8c00&center=true&vCenter=true&multiline=false&repeat=false&width=500&height=20&lines=Building+the+future+one+commit+at+a+time" /> <br>
+  <img width="500" src="/assets/Tech-Stack.png" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=16&duration=1&color=FFFFFF&background=FF000000&center=true&multiline=true&repeat=false&width=500&height=300&lines=I'm%E2%80%8E+%E2%80%8E+passionate%E2%80%8E+%E2%80%8E+Full+Stack+Developer%E2%80%8E+%E2%80%8E+with+a%E2%80%8E+%E2%80%8E+strong+technical;background%E2%80%8E+%E2%80%8E+in%E2%80%8E+%E2%80%8E+web+development%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+software+engineering%2C;complemented+by%E2%80%8E+%E2%80%8E+experience+in%E2%80%8E+%E2%80%8E+UI%2FUX%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+Product+design.;Additionally%2C%E2%80%8E+%E2%80%8E+I+have%E2%80%8E%E2%80%8E+expertise%E2%80%8E+with+hardware+systems+allowing;me%E2%80%8E+%E2%80%8E+to+bridge%E2%80%8E+%E2%80%8E+the%E2%80%8E+%E2%80%8E+gap%E2%80%8E+%E2%80%8E+between%E2%80%8E+%E2%80%8E+software%E2%80%8E+%E2%80%8E+and%E2%80%8E%E2%80%8E+%E2%80%8E+hardware%E2%80%8E+%E2%80%8E+by;creating+integrated+solutions.+I+%E2%80%8Elove+turning+complex+problems;into+simple%2C+beautiful%2C+and+intuitive+solutions.;+;I'm+always+eager+to+learn+new+skills+and+collaborate;on+exciting+project" />
+</div>
+
+
+
 
 
 <table border="0">
@@ -23,8 +54,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&color=F70000&center=true&multiline=true&width=500&height=70&lines=About+Me" />
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&multiline=false&width=500&height=27&lines=Welcome+to+my+GitHub!;I+❤️+coding;I+explore+cool+tech+projects;Let's+collaborate!" />
       <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=18&duration=1&color=90ee90&center=true&multiline=true&repeat=false&width=500&height=27&lines=Building+the+future+one+commit+at+a+time" />
-      <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=17&duration=1&color=FFFFFF&center=true&multiline=true&repeat=false&width=500&height=250&lines=  I'm+passionate+Full+Stack+Developer+with+a+strong+technical;  background+in+web+development+and+software+engineering.;  Additionally%2C%E2%80%8E++%E2%80%8E+I+%E2%80%8E+have%E2%80%8E++hands-on+%E2%80%8E+experience+%E2%80%8E+%E2%80%8E+with+%E2%80%8E++hardware;  systems%2C+%E2%80%8E+%E2%80%8E+%E2%80%8E%E2%80%8E++including+%E2%80%8E%E2%80%8E++%E2%80%8E+%E2%80%8E+microcontrollers+%E2%80%8E+%E2%80%8E%E2%80%8E++%E2%80%8E%E2%80%8E+and+%E2%80%8E+%E2%80%8E+%E2%80%8E++%E2%80%8E+processors;  With+my+expertise+in+%E2%80%8E+MERN+STACK%2C+%E2%80%8E+App+development%2C+%E2%80%8EAI%2C;  ML%2C+Game+development%2C+I++%E2%80%8Eenjoy++turning++%E2%80%8E+%E2%80%8Ecomplex++%E2%80%8E%E2%80%8E+%E2%80%8Eproblems;  into+simple%2C+beautiful%2C+and+intuitive+solutions.;  +;  I'm+always+eager+to+learn+new+skills+and+collaborate;  on+exciting+projects."
-      />
+      <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=17&duration=1&color=FFFFFF&center=true&multiline=true&repeat=false&width=500&height=250&lines=  I'm+passionate+Full+Stack+Developer+with+a+strong+technical;  background+in+web+development+and+software+engineering.;  Additionally%2C%E2%80%8E++%E2%80%8E+I+%E2%80%8E+have%E2%80%8E++hands-on+%E2%80%8E+experience+%E2%80%8E+%E2%80%8E+with+%E2%80%8E++hardware;  systems%2C+%E2%80%8E+%E2%80%8E+%E2%80%8E%E2%80%8E++including+%E2%80%8E%E2%80%8E++%E2%80%8E+%E2%80%8E+microcontrollers+%E2%80%8E+%E2%80%8E%E2%80%8E++%E2%80%8E%E2%80%8E+and+%E2%80%8E+%E2%80%8E+%E2%80%8E++%E2%80%8E+processors;  With+my+expertise+in+%E2%80%8E+MERN+STACK%2C+%E2%80%8E+App+development%2C+%E2%80%8EAI%2C;  ML%2C+Game+development%2C+I++%E2%80%8Eenjoy++turning++%E2%80%8E+%E2%80%8Ecomplex++%E2%80%8E%E2%80%8E+%E2%80%8Eproblems;  into+simple%2C+beautiful%2C+and+intuitive+solutions.;  +;  I'm+always+eager+to+learn+new+skills+and+collaborate;  on+exciting+projects." />
       <br><br>
     </td>
     <td align="center" width="500">

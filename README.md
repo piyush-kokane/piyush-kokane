@@ -1,3 +1,44 @@
+<a href="https://app.daily.dev/warengonzaga">
+    <img src="https://api.daily.dev/devcards/v2/5dwfVl5B1.png?type=default&r=c16" style="min-width: 200px; max-width: 250px; width: 30%" alt="Waren Gonzaga's Dev Card" align="left"/>
+</a>
+
+![typing svg](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=435&lines=Self-taught+Software+Engineer;Open-Source+Maintainer;Open-Source+Contributor;Open-Source+Advocate;Cybersecurity+Researcher;Web3+Engineer;AI+Engineer;Technopreneur)
+
+A multi-talented Filipino self-taught software engineer, open-source maintainer/contributor, cybersecurity researcher, tech community builder, web3 engineer, AI engineer, technopreneur, amateur singer/songwriter, and music producer from the Philippines. 💻💖☕
+
+[![nominate](https://img.shields.io/badge/Star-Nominate%20@warengonzaga-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
+
+- 💝 Author of multiple open source projects (~50 to date).
+- 🌱 Founder @ [WG Technology Labs](https://wgtechlabs.com)
+- 🌱 Founder @ [WG Music Records](https://wgmusicrecords.com)
+- 🎵 Artist @ [Barangay Kuwago](https://brgykuwagomusic.com/)/[Siren of the Stars](https://sirenofthestarsmusic.com)
+- 🔏 Bug bounty hunter @ [Bugcrowd](https://bugcrowd.com/warengonzaga)/[HackerOne](https://hackerone.com/warengonzaga)/[Hack The Box](https://app.hackthebox.com/profile/72159)
+- ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga) or [send me some love](https://github.com/sponsors/warengonzaga).
+- 🎯 Wasting my time to save other people's time.
+- 💡 [Learn more about me](https://bio.link/warengonzaga).
+
+
+
+<!-- About Me -->
+<div>
+  <img width="45%" src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&background=FF000090&color=F70000&center=true&multiline=true&width=450&height=80&lines=About+Me" /> <br>
+  <img width="45%" src="https://readme-typing-svg.herokuapp.com?font=arial&size=18&duration=1&background=FF000090&color=fb8c00&center=true&vCenter=true&multiline=false&repeat=false&width=450&height=20&lines=Building+the+future+one+commit+at+a+time" /> <br>
+  <img width="45%" src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=16&duration=1&color=FFFFFF&background=FF000090&center=true&multiline=true&repeat=false&width=450&height=250&lines=I'm%E2%80%8E+%E2%80%8E+passionate%E2%80%8E+%E2%80%8E+Full+Stack+Developer%E2%80%8E+%E2%80%8E+with+a%E2%80%8E+%E2%80%8E+strong+technical;background%E2%80%8E+%E2%80%8E+in%E2%80%8E+%E2%80%8E+web+development%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+software+engineering%2C;complemented+by%E2%80%8E+%E2%80%8E+experience+in%E2%80%8E+%E2%80%8E+UI%2FUX%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+Product+design.;Additionally%2C%E2%80%8E+%E2%80%8E+I+have%E2%80%8E%E2%80%8E+expertise%E2%80%8E+with+hardware+systems+allowing;me%E2%80%8E+%E2%80%8E+to+bridge%E2%80%8E+%E2%80%8E+the%E2%80%8E+%E2%80%8E+gap%E2%80%8E+%E2%80%8E+between%E2%80%8E+%E2%80%8E+software%E2%80%8E+%E2%80%8E+and%E2%80%8E%E2%80%8E+%E2%80%8E+hardware%E2%80%8E+%E2%80%8E+by;creating+integrated+solutions.+I+%E2%80%8Elove+turning+complex+problems;into+simple%2C+beautiful%2C+and+intuitive+solutions.;+;I'm+always+eager+to+learn+new+skills+and+collaborate;on+exciting+project" />
+  <img width="45%" align="right" src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=16&duration=1&color=FFFFFF&background=FF000090&multiline=true&repeat=false&width=450&height=250&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+MERN+Stack;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Android+Studio;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%8C%B1+I%E2%80%99m+currently+studying+at+MIT-WPU;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+on+cool+projects;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%A4%94+I%E2%80%99m+looking+for+help+with+Android+Studio+(Kotlin);%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Fun+fact%3A+I+started+programming+from+age+of+12;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%E2%9A%A1+Fun+fact%3A+Before+that+i+was+into+hardware" />
+</div>
+
+<br> <br>
+
+<!-- Tech Stack -->
+<div>
+  <img width="45%" src="/assets/Tech-Stack.png" align="left"/>
+</div>
+<div align="right">
+  <img width="45%" src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&background=FF000090&color=F70000&center=true&multiline=true&width=450&height=80&lines=Tech+Stack" /> <br>
+  <img width="45%" src="https://readme-typing-svg.herokuapp.com?font=arial&size=18&duration=1&background=FF000090&color=fb8c00&center=true&vCenter=true&multiline=false&repeat=false&width=450&height=20&lines=Building+the+future+one+commit+at+a+time" /> <br>
+  <img width="45%" src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=16&duration=1&color=FFFFFF&background=FF000090&center=true&multiline=true&repeat=false&width=450&height=300&lines=Expertise+spanning+from+%E2%80%8E+full-stack+%E2%80%8E+web+%E2%80%8E+development+using;MERN+stack+%E2%80%8E+to+%E2%80%8E+mobile+app+development%2C%E2%80%8E+AI%2FML%2C%E2%80%8E+and+%E2%80%8E%E2%80%8E+game;development.+My+technical+proficiency+extends+to+%E2%80%8E+hardware%2C;where+I+work+with+microcontrollers+and+processors%2C+enabling;seamless+integration%E2%80%8E+%E2%80%8E+of%E2%80%8E+%E2%80%8E+software%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+hardware%E2%80%8E+%E2%80%8E+solutions." />
+</div>
+
 <details>
   <summary>📂 Click to expand</summary>
 
@@ -26,21 +67,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&color=ffffff&center=true&multiline=true&width=1000&height=60&lines=Hi,+I'm+Piyush+Kokane!" />
 <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=22&duration=1&pause=1000&color=00ff00&center=true&multiline=false&width=1000&height=32&lines=~+A+Full+Stack+Developer+~" />
 
-<!-- About Me -->
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&background=FF000000&color=F70000&center=true&multiline=true&width=400&height=80&lines=About+Me" /> <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=14&duration=1&background=FF000000&color=fb8c00&center=true&vCenter=true&multiline=false&repeat=false&width=400&height=20&lines=Building+the+future+one+commit+at+a+time" /> <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=14&duration=1&color=FFFFFF&background=FF000000&center=true&multiline=true&repeat=false&width=400&height=250&lines=I'm%E2%80%8E+%E2%80%8E+passionate%E2%80%8E+%E2%80%8E+Full+Stack+Developer%E2%80%8E+%E2%80%8E+with+a%E2%80%8E+%E2%80%8E+strong+technical;background%E2%80%8E+%E2%80%8E+in%E2%80%8E+%E2%80%8E+web+development%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+software+engineering%2C;complemented+by%E2%80%8E+%E2%80%8E+experience+in%E2%80%8E+%E2%80%8E+UI%2FUX%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+Product+design.;Additionally%2C%E2%80%8E+%E2%80%8E+I+have%E2%80%8E%E2%80%8E+expertise%E2%80%8E+with+hardware+systems+allowing;me%E2%80%8E+%E2%80%8E+to+bridge%E2%80%8E+%E2%80%8E+the%E2%80%8E+%E2%80%8E+gap%E2%80%8E+%E2%80%8E+between%E2%80%8E+%E2%80%8E+software%E2%80%8E+%E2%80%8E+and%E2%80%8E%E2%80%8E+%E2%80%8E+hardware%E2%80%8E+%E2%80%8E+by;creating+integrated+solutions.+I+%E2%80%8Elove+turning+complex+problems;into+simple%2C+beautiful%2C+and+intuitive+solutions.;+;I'm+always+eager+to+learn+new+skills+and+collaborate;on+exciting+project" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=14&duration=1&color=FFFFFF&background=FF000000&multiline=true&repeat=false&width=400&height=250&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+MERN+Stack;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Android+Studio;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%8C%B1+I%E2%80%99m+currently+studying+at+MIT-WPU;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+on+cool+projects;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%A4%94+I%E2%80%99m+looking+for+help+with+Android+Studio+(Kotlin);%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Fun+fact%3A+I+started+programming+from+age+of+12;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%E2%9A%A1+Fun+fact%3A+Before+that+i+was+into+hardware" />
-</div>
 
-<!-- Tech Stack -->
-<div align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&background=FF000000&color=F70000&center=true&multiline=true&width=500&height=80&lines=Tech+Stack" /> <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=18&duration=1&background=FF000000&color=fb8c00&center=true&vCenter=true&multiline=false&repeat=false&width=500&height=20&lines=Building+the+future+one+commit+at+a+time" /> <br>
-  <img width="500" src="/assets/Tech-Stack.png" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=16&duration=1&color=FFFFFF&background=FF000000&center=true&multiline=true&repeat=false&width=500&height=300&lines=I'm%E2%80%8E+%E2%80%8E+passionate%E2%80%8E+%E2%80%8E+Full+Stack+Developer%E2%80%8E+%E2%80%8E+with+a%E2%80%8E+%E2%80%8E+strong+technical;background%E2%80%8E+%E2%80%8E+in%E2%80%8E+%E2%80%8E+web+development%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+software+engineering%2C;complemented+by%E2%80%8E+%E2%80%8E+experience+in%E2%80%8E+%E2%80%8E+UI%2FUX%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+Product+design.;Additionally%2C%E2%80%8E+%E2%80%8E+I+have%E2%80%8E%E2%80%8E+expertise%E2%80%8E+with+hardware+systems+allowing;me%E2%80%8E+%E2%80%8E+to+bridge%E2%80%8E+%E2%80%8E+the%E2%80%8E+%E2%80%8E+gap%E2%80%8E+%E2%80%8E+between%E2%80%8E+%E2%80%8E+software%E2%80%8E+%E2%80%8E+and%E2%80%8E%E2%80%8E+%E2%80%8E+hardware%E2%80%8E+%E2%80%8E+by;creating+integrated+solutions.+I+%E2%80%8Elove+turning+complex+problems;into+simple%2C+beautiful%2C+and+intuitive+solutions.;+;I'm+always+eager+to+learn+new+skills+and+collaborate;on+exciting+project" />
-</div>
 
 
 
@@ -81,7 +108,7 @@
       <!-- Tech Stack -->
       <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&color=F70000&center=true&multiline=true&width=500&height=70&lines=Tech+Stack" />
       <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=18&duration=1&color=fb8c00&center=true&multiline=true&repeat=false&width=500&height=27&lines=Building+digital+solutions+from+code+to+circuit" />
-      <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=17&duration=1&color=FFFFFF&center=true&multiline=true&repeat=false&width=500&height=150&lines=  Expertise+spanning+from+%E2%80%8E+full-stack+%E2%80%8E+web+%E2%80%8E+development+using;  MERN+stack+%E2%80%8E+to+%E2%80%8E+mobile+app+development%2C%E2%80%8E++AI%2FML%2C%E2%80%8E++and+%E2%80%8E%E2%80%8E+game;  development.+My+technical+proficiency+extends+to+%E2%80%8E+hardware%2C;  where+I+work+with+microcontrollers+and+processors%2C+enabling;  seamless+integration+of+software+and+hardware+solutions." />
+      <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=16&duration=1&color=FFFFFF&center=true&multiline=true&repeat=false&width=450&height=150&lines=  Expertise+spanning+from+%E2%80%8E+full-stack+%E2%80%8E+web+%E2%80%8E+development+using;  MERN+stack+%E2%80%8E+to+%E2%80%8E+mobile+app+development%2C%E2%80%8E++AI%2FML%2C%E2%80%8E++and+%E2%80%8E%E2%80%8E+game;  development.+My+technical+proficiency+extends+to+%E2%80%8E+hardware%2C;  where+I+work+with+microcontrollers+and+processors%2C+enabling;  seamless+integration+of+software+and+hardware+solutions." />
       <br>
     </td>
   </tr>

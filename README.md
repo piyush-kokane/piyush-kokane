@@ -24,20 +24,26 @@
 <br> <br>
 
 <!-- About Me -->
-<div>
+<div align="left">
   <img width="45%" align="left" src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&background=FF000090&color=F70000&center=true&multiline=true&width=450&height=80&lines=About+Me" />
-  <img width="20%" align="right" src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&background=FF000090&color=F70000&center=true&multiline=true&width=200&height=80&lines=+" />
+  <!----> <img width="20%" align="right" src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&background=FF000090&color=F70000&center=true&multiline=true&width=200&height=80&lines=+" />
 
   <img width="45%" align="left" src="https://readme-typing-svg.herokuapp.com?font=arial&size=18&duration=1&background=FF000090&color=fb8c00&center=true&vCenter=true&multiline=false&repeat=false&width=450&height=20&lines=Building+the+future+one+commit+at+a+time" />
-  <img width="20%" align="right" src="https://readme-typing-svg.herokuapp.com?font=arial&size=18&duration=1&background=FF000090&color=fb8c00&center=true&vCenter=true&multiline=false&repeat=false&width=200&height=20&lines=+" />
+  <img width="20%" align="right" src="https://readme-typing-svg.herokuapp.com?font=arial&size=18&duration=1&background=FF000090&color=fb8c00&center=true&vCenter=true&multiline=false&repeat=false&width=200&height=25&lines=+" />
 
-  <img width="45%" align="left" src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=16&duration=1&color=FFFFFF&background=FF000090&center=true&multiline=true&repeat=false&width=450&height=250&lines=I'm%E2%80%8E+%E2%80%8E+passionate%E2%80%8E+%E2%80%8E+Full+Stack+Developer%E2%80%8E+%E2%80%8E+with+a%E2%80%8E+%E2%80%8E+strong+technical;background%E2%80%8E+%E2%80%8E+in%E2%80%8E+%E2%80%8E+web+development%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+software+engineering%2C;complemented+by%E2%80%8E+%E2%80%8E+experience+in%E2%80%8E+%E2%80%8E+UI%2FUX%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+Product+design.;Additionally%2C%E2%80%8E+%E2%80%8E+I+have%E2%80%8E%E2%80%8E+expertise%E2%80%8E+with+hardware+systems+allowing;me%E2%80%8E+%E2%80%8E+to+bridge%E2%80%8E+%E2%80%8E+the%E2%80%8E+%E2%80%8E+gap%E2%80%8E+%E2%80%8E+between%E2%80%8E+%E2%80%8E+software%E2%80%8E+%E2%80%8E+and%E2%80%8E%E2%80%8E+%E2%80%8E+hardware%E2%80%8E+%E2%80%8E+by;creating+integrated+solutions.+I+%E2%80%8Elove+turning+complex+problems;into+simple%2C+beautiful%2C+and+intuitive+solutions.;+;I'm+always+eager+to+learn+new+skills+and+collaborate;on+exciting+project" />
+  <img width="45%" align="left" src="https://readme-typing-svg.herokuapp.com?font=arial&size=16&color=FFFFFF&background=FF000090&center=true&duration=1&multiline=true&repeat=false&width=450&height=250&lines=I'm%E2%80%8E+%E2%80%8E+passionate%E2%80%8E+%E2%80%8E+Full+Stack+Developer%E2%80%8E+%E2%80%8E+with+a%E2%80%8E+%E2%80%8E+strong+technical;background%E2%80%8E+%E2%80%8E+in%E2%80%8E+%E2%80%8E+web+development%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+software+engineering%2C;complemented+by%E2%80%8E+%E2%80%8E+experience+in%E2%80%8E+%E2%80%8E+UI%2FUX%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+Product+design.;Additionally%2C%E2%80%8E+%E2%80%8E+I+have%E2%80%8E%E2%80%8E+expertise%E2%80%8E+with+hardware+systems+allowing;me%E2%80%8E+%E2%80%8E+to+bridge%E2%80%8E+%E2%80%8E+the%E2%80%8E+%E2%80%8E+gap%E2%80%8E+%E2%80%8E+between%E2%80%8E+%E2%80%8E+software%E2%80%8E+%E2%80%8E+and%E2%80%8E%E2%80%8E+%E2%80%8E+hardware%E2%80%8E+%E2%80%8E+by;creating+integrated+solutions.+I+%E2%80%8Elove+turning+complex+problems;into+simple%2C+beautiful%2C+and+intuitive+solutions.;+;I'm+always+eager+to+learn+new+skills+and+collaborate;on+exciting+project" />
 
-  <a><img width="45%" align="left" src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=16&duration=1&color=FFFFFFDD&background=FF000090&multiline=true&repeat=false&width=450&height=250&lines=%E2%80%A2+%F0%9F%96%A5%EF%B8%8F+Currently+working+on+MERN+Stack;%E2%80%A2+%F0%9F%93%9A+Currently+learning+Android+Studio;%E2%80%A2+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Pursuing+B.Sc.+cs.+at+MIT-WPU;%E2%80%A2+%F0%9F%91%AF+looking+to+collaborate+on+cool+projects;%E2%80%A2+%F0%9F%A4%94+looking+for+help+with+Android+Studio+(Kotlin);%E2%80%A2+%F0%9F%98%84+Fun+fact%3A+See+my+commits+in+year+2023" /></a>
+  <a><img width="45%" align="left" src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=16&duration=1&color=FFFFFF&background=FF000090&multiline=true&repeat=false&width=450&height=28&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%96%A5%EF%B8%8F+Currently+working+on+MERN+Stack" /></a>
+  <a><img width="45%" align="left" src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=16&duration=1&color=FFFFFF&background=FF000090&vCenter=true&repeat=false&width=450&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%96%A5%EF%B8%8F+Currently+working+on+MERN+Stack" /></a>
+  <a><img width="45%" align="left" src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=16&duration=1&color=FFFFFF&background=FF000090&vCenter=true&repeat=false&width=450&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%96%A5%EF%B8%8F+Currently+working+on+MERN+Stack" /></a>
+  <a><img width="45%" align="left" src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=16&duration=1&color=FFFFFF&background=FF000090&vCenter=true&repeat=false&width=450&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%96%A5%EF%B8%8F+Currently+working+on+MERN+Stack" /></a>
+  <a><img width="45%" align="left" src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=16&duration=1&color=FFFFFF&background=FF000090&vCenter=true&repeat=false&width=450&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%96%A5%EF%B8%8F+Currently+working+on+MERN+Stack" /></a>
+  <a><img width="45%" align="left" src="https://readme-typing-svg.herokuapp.com?font=arial&weight=100&size=16&duration=1&color=FFFFFF&background=FF000090&vCenter=true&repeat=false&width=450&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%96%A5%EF%B8%8F+Currently+working+on+MERN+Stack" /></a>
 
 </div>
 
-<br> <br>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <!-- Tech Stack -->
 <div>

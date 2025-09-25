@@ -1,3 +1,6 @@
+
+
+
 <details>
   <summary><b>Quick links 🔗</b></summary>
   <ul>
@@ -19,14 +22,14 @@
 </p>
 
 
-
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
 <!-- Name & Title -->
 <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&color=ffffff&center=true&multiline=true&width=1000&height=60&lines=Hi,+I'm+Piyush+Kokane!" />
 <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=22&duration=3000&pause=5000&color=00FF00&background=FF000000&center=true&vCenter=true&width=1000&height=32&lines=~+Welcome+to+my+GitHub!+~;~+A+Full+Stack+Developer+~;~+A+UI%2FUX+and+Product+designer+~;~+I+%E2%9D%A4%EF%B8%8F+coding+~;~+I+explore+cool+tech+projects+~;~+Let's+collaborate!+~" />
 
 <br> <br>
+
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <!-- About Me -->
 <div align="right">
@@ -71,7 +74,7 @@
 <details open>
   <summary><h2>📊 My Stats</h2></summary>
   
-  <table border="0">
+  <table>
     <tr />
     <tr>
       <td align="center">
@@ -101,31 +104,40 @@
     </tr>
     <tr>
       <td colspan="2">
-        <!-- More Stats -->
-        <details>
-          <summary><h4>📊 More Stats</h4></summary>
-          <!-- More Stats -->
-            <details open>
-              <summary><h6>My Stats 1</h6></summary>
-              <div align="center">
-                <img src="https://github-profile-trophy.vercel.app/?username=piyush-kokane&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="&nbsp;My Trophies" />
-              </div>
-            </details>
-          <!-- More Stats -->
-            <details open>
-              <summary><h6>My Stats 1</h6></summary>
-              <div align="center">
-                <img src="https://github-profile-trophy.vercel.app/?username=piyush-kokane&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="&nbsp;My Trophies" />
-              </div>
-            </details>
-          <!-- More Stats -->
-            <details open>
-              <summary><h6>My Stats 1</h6></summary>
-              <div align="center">
-                <img src="https://github-profile-trophy.vercel.app/?username=piyush-kokane&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="&nbsp;My Trophies" />
-              </div>
-            </details>
+        <!-- 📊 More Stats -->
+        <img src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=100&height=1&lines=+" />
+        <img align="left" src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=4&height=28&lines=+" />
+        <details open>
+          <summary><img align="left" src="https://readme-typing-svg.herokuapp.com?font=arial&size=18&duration=1&color=fb8c00&background=FF000000&vCenter=true&multiline=false&repeat=false&width=87&height=28&lines=More+Stats" /></summary>
+          <br>
+          <ul>
+            <li>
+              <details open>
+                <summary>My Stats 1</summary>
+                <div align="center">
+                  <img src="https://github-profile-trophy.vercel.app/?username=piyush-kokane&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="My Trophies" />
+                </div>
+              </details>
+            </li>
+            <li>
+              <details open>
+                <summary>My Stats 2</summary>
+                <div align="center">
+                  <img src="https://github-profile-trophy.vercel.app/?username=piyush-kokane&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="My Trophies" />
+                </div>
+              </details>
+            </li>
+            <li>
+              <details open>
+                <summary>My Stats 3</summary>
+                <div align="center">
+                  <img src="https://github-profile-trophy.vercel.app/?username=piyush-kokane&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="My Trophies" />
+                </div>
+              </details>
+            </li>
+          </ul>
         </details>
+        <img align="left" src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=100&height=1&lines=+" />
       </td>
     </tr>
   </table>

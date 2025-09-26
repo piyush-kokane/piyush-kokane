@@ -94,7 +94,7 @@
         <!-- 📊 More Stats -->
         <img src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=100&height=1&lines=+" />
         <img align="left" src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=4&height=28&lines=+" />
-        <details open>
+        <details>
           <summary><img align="left" src="https://readme-typing-svg.herokuapp.com?font=arial&size=18&duration=1&color=fb8c00&background=FF000000&vCenter=true&multiline=false&repeat=false&width=87&height=28&lines=More+Stats" /></summary>
           <br>
           <ul>
@@ -159,14 +159,19 @@
 
 <!-- Line -->
 <img width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808050&width=800&height=2&lines=+">
+<br>
 
 
+<!-- Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark">
+  <img width="50%" align="center" src="https://readme-typing-svg.herokuapp.com?font=arial&size=64&duration=1&color=FB8C00&background=FF000000&center=true&multiline=true&repeat=false&width=500&height=38&lines=%E2%80%9C" >
+  <img width="50%" align="center" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=18&duration=1&color=808080&background=FF000000&center=true&multiline=true&repeat=false&width=500&height=105&lines=If+you+need+more+than+3+levels;of+indentation%2C+you're;screwed+anyway%2C+and+should;fix+your+program." alt="&nbsp;Quote" >
+  <img width="50%" align="center" src="https://readme-typing-svg.herokuapp.com?font=arial&size=64&duration=1&color=FB8C00&background=FF000000&center=true&vCenter=true&repeat=false&width=500&height=60&lines=%E2%80%9D" >
 </div>
+<br>
 
 
-
+<!-- Footer -->
 <img align="left" width="50" src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif">
 <img align="right" width="70" src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif">
 <img align="left" width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

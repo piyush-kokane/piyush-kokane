@@ -1,30 +1,17 @@
-
-
-
-<details>
-  <summary><b>Quick links 🔗</b></summary>
-  <ul>
-    <li>Portfolio: <a href="https://your-portfolio.com">Link</a></li>
-    <li>Resume: <a href="https://your-resume.com">Link</a></li>
-  </ul>
-</details>
-
-
 <!-- Follow & Views -->
-<a href="https://github.com/piyush-kokane"><img align="left" src="https://img.shields.io/github/followers/piyush-kokane?label=follow&style=social" /></a>
-<img align="right" src="https://komarev.com/ghpvc/?username=piyush-kokane&label=Views&color=red&style=flat" />
+<a href="https://github.com/piyush-kokane"><img align="left" src="https://img.shields.io/github/followers/piyush-kokane?label=follow&style=social"></a>
+<img align="right" src="https://komarev.com/ghpvc/?username=piyush-kokane&label=Views&color=red&style=flat">
 <br>
 
 
 <!-- GIF -->
 <p align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="150px"/>
-</p>
 
 
 <!-- Name & Title -->
-<img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=42&duration=1&pause=1000&color=ffffff&center=true&multiline=true&width=1000&height=60&lines=Hi,+I'm+Piyush+Kokane!" />
-<img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=800&size=22&duration=3000&pause=5000&color=00FF00&background=FF000000&center=true&vCenter=true&width=1000&height=32&lines=~+Welcome+to+my+GitHub!+~;~+A+Full+Stack+Developer+~;~+A+UI%2FUX+and+Product+designer+~;~+I+%E2%9D%A4%EF%B8%8F+coding+~;~+I+explore+cool+tech+projects+~;~+Let's+collaborate!+~" />
+<img src="https://readme-typing-svg.herokuapp.com?font=arial&size=42&duration=1&pause=1000&color=ffffff&center=true&multiline=true&width=1000&height=60&lines=Hi,+I'm+Piyush+Kokane!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=arial&size=22&duration=3000&pause=5000&color=00FF00&background=FF000000&center=true&vCenter=true&width=1000&height=32&lines=~+Welcome+to+my+GitHub!+~;~+A+Full+Stack+Developer+~;~+A+UI%2FUX+and+Product+designer+~;~+I+%E2%9D%A4%EF%B8%8F+coding+~;~+I+explore+cool+tech+projects+~;~+Let's+collaborate!+~" />
 
 <br> <br>
 
@@ -144,7 +131,8 @@
 </details>
 
 
-![](https://readme-typing-svg.herokuapp.com?background=80808050&width=1000&height=2&lines=+)
+<!-- Line -->
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808050&width=800&height=2&lines=+">
 
 
 <!-- Trophies -->
@@ -156,7 +144,8 @@
 </details>
 
 
-![](https://readme-typing-svg.herokuapp.com?background=80808050&width=1000&height=2&lines=+)
+<!-- Line -->
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808050&width=800&height=2&lines=+">
 
 
 <!-- Holopin Badges -->
@@ -166,6 +155,23 @@
     <a href="https://holopin.io/@piyushkokane"><img src="https://holopin.me/piyushkokane" alt="&nbsp;@piyushkokane&#39;s Holopin board"></a>
   </div>
 </details>
+
+
+<!-- Line -->
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808050&width=800&height=2&lines=+">
+
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark">
+</div>
+
+
+
+<img align="left" width="50" src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif">
+<img align="right" width="70" src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif">
+<img align="left" width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 
 <!-- Complete Tech Stack

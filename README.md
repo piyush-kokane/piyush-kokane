@@ -92,7 +92,7 @@
         <br>
         <img align="left" src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=4&height=28&lines=+" />
           <details>
-            <summary><img align="left" src="https://readme-typing-svg.herokuapp.com?font=arial&size=14&duration=1&color=fb8c00&background=FF000000&vCenter=true&multiline=false&repeat=false&width=68&height=28&lines=More+Stats" /></summary>
+            <summary><img align="left" src="https://readme-typing-svg.herokuapp.com?font=arial&size=16&duration=1&color=fb8c00&background=FF000000&vCenter=true&multiline=false&repeat=false&width=77&height=28&lines=More+Stats" /></summary>
             <br>
             <ul>
               <li>
@@ -167,9 +167,6 @@
 </div>
 
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko">
-<br>
 <!-- Footer -->
 <img align="left" width="50" src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif">
 <img align="right" width="70" src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif">

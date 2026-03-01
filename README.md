@@ -27,7 +27,7 @@
   
 
   <details open>
-    <summary><img width="480" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000090&multiline=true&repeat=false&width=450&height=22&lines=More+About+Me"></summary>
+    <summary><img width="240" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000090&multiline=true&repeat=false&width=240&height=22&lines=More+About+Me"></summary>
       <a><img width="500" align="left" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000090&vCenter=true&repeat=false&width=450&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%96%A5%EF%B8%8F+Currently+working+on+MERN+Stack" /></a>
       <a><img width="500" align="left" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000090&vCenter=true&repeat=false&width=450&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%93%9A+Currently+learning+Android+Studio" /></a>
       <a><img width="500" align="left" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000090&vCenter=true&repeat=false&width=450&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Pursuing+B.Sc.+cs.+at+MIT-WPU" /></a>

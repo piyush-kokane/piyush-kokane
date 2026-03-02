@@ -39,8 +39,8 @@
   
   <details>
     <summary><img width="85" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&multiline=true&repeat=false&width=85&height=22&lines=Quick+Links"></summary>
-    <a><img width="320" align="left" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=16&duration=1&color=4493f8&background=FF000000&vCenter=true&repeat=false&width=450&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+Portfolio+%E2%96%B8" /></a>
-    <a><img width="320" align="left" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=16&duration=1&color=4493f8&background=FF000000&vCenter=true&repeat=false&width=450&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+Resume+%E2%96%B8" /></a>
+    <a><img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=16&duration=1&color=4493f8&background=FF000000&vCenter=true&repeat=false&width=450&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+Portfolio+%E2%96%B8" /></a>
+    <a><img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=16&duration=1&color=4493f8&background=FF000000&vCenter=true&repeat=false&width=450&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+Resume+%E2%96%B8" /></a>
   </details>
 
 </div>

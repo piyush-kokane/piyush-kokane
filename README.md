@@ -54,12 +54,22 @@
       <a><img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=16&duration=1&color=4493f8&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+Resume+%E2%96%B8" />
     </details>
   </details>
-  
+        
 </a>
 
 
+<!-- socials -->
+<div align="center">
+  <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808000&width=1000&height=1&lines=+" />
+  <a><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32" />
+  <a><img src="https://www.readmecodegen.com/api/social-icon?name=x&color=%233b82f6&size=32" />
+  <a><img src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=32" />
+  <a><img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=32" />
+  <a><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=32" />
+</div>
 
 <!-- Line -->
+<br> <br>
 <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808050&width=800&height=2&lines=+" />
 <br> <br>
 

@@ -58,15 +58,24 @@
 </a>
 
 
-<!-- socials -->
+
+<!-- ================ SOCIALS ================ -->
 <div align="center">
-  <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808000&width=1000&height=1&lines=+" />
-  <a><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32" />
-  <a><img src="https://www.readmecodegen.com/api/social-icon?name=x&color=%233b82f6&size=32" />
-  <a><img src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=32" />
-  <a><img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=32" />
-  <a><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=32" />
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?background=80808000&width=1000&height=1&lines=+" />
+    <!-- linkedin --> <a><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32" />
+    <img src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=16&height=32&lines=+" />
+    <!-- x --> <a><img src="https://www.readmecodegen.com/api/social-icon?name=x&color=%233b82f6&size=32" />
+    <img src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=16&height=32&lines=+" />
+    <!-- gmail --> <a><img src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=32" />
+    <img src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=16&height=32&lines=+" />
+    <!-- whatsapp --> <a><img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=32" />
+    <img src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=16&height=32&lines=+" />
+    <!-- instagram --> <a><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=32" />
+  </a>
 </div>
+
+
 
 <!-- Line -->
 <br> <br>

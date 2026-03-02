@@ -1,4 +1,4 @@
-<!-- ================ Follow & Views ================ -->
+<!-- ================ FOLLOW & VIEWS ================ -->
 <a href="https://github.com/piyush-kokane"><img align="left" src="https://img.shields.io/github/followers/piyush-kokane?label=follow&style=social" />
 <a href="#"><img align="right" src="https://komarev.com/ghpvc/?username=piyush-kokane&label=Views&color=red&style=flat" />
 <br>
@@ -44,7 +44,7 @@
       <img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Pursuing+B.Sc.+cs.+at+MIT-WPU" />
       <img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%AF+looking+to+collaborate+on+cool+projects" />
       <img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Fun+fact%3A+See+my+commits+in+year+2023" />
-      <a href="https://"  target="_blank" rel="noopener noreferrer"><img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=16&duration=1&color=4493f8&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Learn+More+About+Me+%E2%9E%A4" />
+      <a href="https://"><img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=16&duration=1&color=4493f8&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Learn+More+About+Me+%E2%9E%A4" />
      </a>
      <details>
       <summary>
@@ -60,31 +60,52 @@
 
 
 <!-- ================ SOCIALS ================ -->
-<div align="center">
+<div width="500" align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?background=80808000&width=1000&height=1&lines=+" /></a>
+  
+  <!-- linkedin -->
+  <a href="https://">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32" /></a>
+
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?background=80808000&width=1000&height=1&lines=+" />
-    <!-- linkedin --> <a><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32" />
-    <img src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=16&height=32&lines=+" />
-    <!-- x --> <a><img src="https://www.readmecodegen.com/api/social-icon?name=x&color=%233b82f6&size=32" />
-    <img src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=16&height=32&lines=+" />
-    <!-- gmail --> <a><img src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=32" />
-    <img src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=16&height=32&lines=+" />
-    <!-- whatsapp --> <a><img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=32" />
-    <img src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=16&height=32&lines=+" />
-    <!-- instagram --> <a><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=32" />
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com?background=80808000&width=16&height=32&lines=+" /></a>
+  
+  <!-- x -->
+  <a href="https://">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=x&color=%233b82f6&size=32" /></a>
+    
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?background=80808000&width=16&height=32&lines=+" /></a>
+    
+  <!-- gmail -->
+  <a href="https://">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=32" /></a>
+    
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?background=80808000&width=16&height=32&lines=+" /></a>
+    
+  <!-- whatsapp -->
+  <a href="https://">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=32" /></a>
+    
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?background=80808000&width=16&height=32&lines=+" /></a>
+    
+  <!-- instagram -->
+  <a href="https://">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=32" /></a>
 </div>
 
 
 
-<!-- Line -->
+<!-- *** Line *** -->
 <br> <br>
 <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808050&width=800&height=2&lines=+" />
 <br> <br>
 
 
 
-<!-- Tech Stack -->
+<!-- ================ TECH STACK ================ -->
 <div>
   <img width="48%" src="/assets/Tech-Stack.png" align="left"/>
 </div>

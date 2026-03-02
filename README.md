@@ -1,55 +1,68 @@
-<!-- Follow & Views -->
-<a href="https://github.com/piyush-kokane"><img align="left" src="https://img.shields.io/github/followers/piyush-kokane?label=follow&style=social"></a>
-<img align="right" src="https://komarev.com/ghpvc/?username=piyush-kokane&label=Views&color=red&style=flat">
+<!-- ================ Follow & Views ================ -->
+<a href="https://github.com/piyush-kokane"><img align="left" src="https://img.shields.io/github/followers/piyush-kokane?label=follow&style=social" />
+<a href="#"><img align="right" src="https://komarev.com/ghpvc/?username=piyush-kokane&label=Views&color=red&style=flat" />
 <br>
 
 
-<!-- GIF -->
+
+<!-- ================ HEADER ================ -->
 <p align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="150px"/>
+  
+  <!-- GIF -->
+  <a href="#">
+    <img width="150px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
 
+  <!-- Name & Title -->
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=42&duration=1&pause=1000&color=ffffff&center=true&multiline=true&width=1000&height=60&lines=Hi,+I'm+Piyush+Kokane!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=22&duration=3000&pause=5000&color=00FF00&background=FF000000&center=true&vCenter=true&width=1000&height=32&lines=~+Welcome+to+my+GitHub!+~;~+A+Full+Stack+Developer+~;~+A+UI%2FUX+and+Product+designer+~;~+I+%E2%9D%A4%EF%B8%8F+coding+~;~+I+explore+cool+tech+projects+~;~+Let's+collaborate!+~" />
 
-<!-- Name & Title -->
-<img src="https://readme-typing-svg.herokuapp.com?font=arial&size=42&duration=1&pause=1000&color=ffffff&center=true&multiline=true&width=1000&height=60&lines=Hi,+I'm+Piyush+Kokane!" />
-<img src="https://readme-typing-svg.herokuapp.com?font=arial&size=22&duration=3000&pause=5000&color=00FF00&background=FF000000&center=true&vCenter=true&width=1000&height=32&lines=~+Welcome+to+my+GitHub!+~;~+A+Full+Stack+Developer+~;~+A+UI%2FUX+and+Product+designer+~;~+I+%E2%9D%A4%EF%B8%8F+coding+~;~+I+explore+cool+tech+projects+~;~+Let's+collaborate!+~" />
-
+  </p>
 <br> <br>
 
 
-<!-- About Me -->
-<div align="left">
+
+<!-- ================ ABOUT ME ================ -->
+<a href="#">
+ 
+  <!-- About Me: Left column -->
   <img width="500" align="left" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=42&duration=1&pause=1000&background=FF000000&color=F70000&center=true&multiline=true&width=450&height=80&lines=About+Me" />
-  
   <img width="500" align="left" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&duration=1&background=FF000000&color=fb8c00&center=true&vCenter=true&multiline=false&repeat=false&width=450&height=20&lines=Building+the+future+one+commit+at+a+time" />
-
   <img width="500" align="left" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&color=FFFFFF&background=FF000000&center=true&duration=1&multiline=true&repeat=false&width=450&height=250&lines=I'm%E2%80%8E+%E2%80%8E+passionate%E2%80%8E+%E2%80%8E+Full+Stack+Developer%E2%80%8E+%E2%80%8E+with+a%E2%80%8E+%E2%80%8E+strong+technical;background%E2%80%8E+%E2%80%8E+in%E2%80%8E+%E2%80%8E+web+development%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+software+engineering%2C;complemented+by%E2%80%8E+%E2%80%8E+experience+in%E2%80%8E+%E2%80%8E+UI%2FUX%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+Product+design.;Additionally%2C%E2%80%8E+%E2%80%8E+I+have%E2%80%8E%E2%80%8E+expertise%E2%80%8E+with+hardware+systems+allowing;me%E2%80%8E+%E2%80%8E+to+bridge%E2%80%8E+%E2%80%8E+the%E2%80%8E+%E2%80%8E+gap%E2%80%8E+%E2%80%8E+between%E2%80%8E+%E2%80%8E+software%E2%80%8E+%E2%80%8E+and%E2%80%8E%E2%80%8E+%E2%80%8E+hardware%E2%80%8E+%E2%80%8E+by;creating+integrated+solutions.+I+%E2%80%8Elove+turning+complex+problems;into+simple%2C+beautiful%2C+and+intuitive+solutions.;+;I'm+always+eager+to+learn+new+skills+and+collaborate;on+exciting+project" />
+  
+  <!-- About Me: Right column - blank -->
+  <img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&duration=1&background=FF000000&color=fb8c00&center=true&vCenter=true&multiline=false&repeat=false&width=450&height=148&lines=+" />
 
-
-  <a href="#">
-    <img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&duration=1&background=FF000090&color=fb8c00&center=true&vCenter=true&multiline=false&repeat=false&width=450&height=1&lines=+" />
-    <br><br><br>
-
+  <!-- About Me: Right column - content -->
   <details open>
-    <summary><img width="110" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&multiline=true&repeat=false&width=110&height=22&lines=More+About+Me"></summary>
-    <a><img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%96%A5%EF%B8%8F+Currently+working+on+MERN+Stack" /></a>
-    <a><img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%93%9A+Currently+learning+Android+Studio" /></a>
-    <a><img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Pursuing+B.Sc.+cs.+at+MIT-WPU" /></a>
-    <a><img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%AF+looking+to+collaborate+on+cool+projects" /></a>
-    <a><img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Fun+fact%3A+See+my+commits+in+year+2023" /></a>
-    <a><img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=16&duration=1&color=4493f8&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Learn+More+About+Me+%E2%9E%A4" /></a>
-    <details>
-      <summary><img width="85" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&multiline=true&repeat=false&width=85&height=22&lines=Quick+Links"></summary>
-      <a><img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=16&duration=1&color=4493f8&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+Portfolio+%E2%96%B8" /></a>
-      <a><img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=16&duration=1&color=4493f8&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+Resume+%E2%96%B8" /></a>
+    <summary>
+      <a href="#"><img width="110" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&multiline=true&repeat=false&width=110&height=22&lines=More+About+Me" />
+    </summary>
+    <a href="#">
+      <img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%96%A5%EF%B8%8F+Currently+working+on+MERN+Stack" />
+      <img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%93%9A+Currently+learning+Android+Studio" />
+      <img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Pursuing+B.Sc.+cs.+at+MIT-WPU" />
+      <img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%AF+looking+to+collaborate+on+cool+projects" />
+      <img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Fun+fact%3A+See+my+commits+in+year+2023" />
+      <a><img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=16&duration=1&color=4493f8&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Learn+More+About+Me+%E2%9E%A4" />
+     </a>
+     <details>
+      <summary>
+        <a href="#"><img width="85" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&multiline=true&repeat=false&width=85&height=22&lines=Quick+Links" />
+      </summary>
+      <a><img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=16&duration=1&color=4493f8&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+Portfolio+%E2%96%B8" />
+      <a><img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=16&duration=1&color=4493f8&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+Resume+%E2%96%B8" />
     </details>
   </details>
+  
+</a>
 
-</div>
 
 
 <!-- Line -->
-<img width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808050&width=800&height=2&lines=+">
+<a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808050&width=800&height=2&lines=+" />
 <br> <br>
+
 
 
 <!-- Tech Stack -->

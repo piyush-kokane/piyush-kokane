@@ -13,14 +13,11 @@ This `Profile README.md` is still under development
 
 <!-- ================ HEADER ================ -->
 <p align="center">
-  
-  <!-- GIF -->
-  <a href="#">
-    <img width="150px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
 
-  <!-- Name & Title -->
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=42&duration=1&pause=1000&color=ffffff&center=true&multiline=true&width=1000&height=60&lines=Hi,+I'm+Piyush+Kokane!" />
+    <img width="300" src="/assets/Black_and_White_Profile_Picture.png" />
+
+  <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=22&duration=3000&pause=5000&color=00FF00&background=FF000000&center=true&vCenter=true&width=1000&height=32&lines=~+Welcome+to+my+GitHub!+~;~+A+Full+Stack+Developer+~;~+A+UI%2FUX+and+Product+designer+~;~+I+%E2%9D%A4%EF%B8%8F+coding+~;~+I+explore+cool+tech+projects+~;~+Let's+collaborate!+~" />
 
 </p>

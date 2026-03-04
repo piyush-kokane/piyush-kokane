@@ -1,7 +1,11 @@
-<!-- ================ FOLLOW & VIEWS ================ -->
-<a href="https://github.com/piyush-kokane"><img align="left" src="https://img.shields.io/github/followers/piyush-kokane?label=follow&style=social" />
-<a href="#"><img align="right" src="https://komarev.com/ghpvc/?username=piyush-kokane&label=Views&color=red&style=flat" />
-<br>
+<!-- ================ QUICK LINKS ================ -->
+<a href="https://">
+  <img align="left" src="https://img.shields.io/badge/Portfolio-6C63FF.svg?logo=devdotto&logoColor=white" /></a>
+
+<a href="https://">
+  <img align="right" src="https://img.shields.io/badge/Resume-4CAF50.svg?logo=googledocs&logoColor=white" /></a>
+
+<br> <br>
 
 
 
@@ -17,7 +21,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=42&duration=1&pause=1000&color=ffffff&center=true&multiline=true&width=1000&height=60&lines=Hi,+I'm+Piyush+Kokane!" />
     <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=22&duration=3000&pause=5000&color=00FF00&background=FF000000&center=true&vCenter=true&width=1000&height=32&lines=~+Welcome+to+my+GitHub!+~;~+A+Full+Stack+Developer+~;~+A+UI%2FUX+and+Product+designer+~;~+I+%E2%9D%A4%EF%B8%8F+coding+~;~+I+explore+cool+tech+projects+~;~+Let's+collaborate!+~" />
 
-  </p>
+</p>
 <br> <br>
 
 
@@ -44,20 +48,8 @@
       <img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Pursuing+B.Sc.+cs.+at+MIT-WPU" />
       <img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%AF+looking+to+collaborate+on+cool+projects" />
       <img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Fun+fact%3A+See+my+commits+in+year+2023" />
-      <a href="https://"><img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=16&duration=1&color=4493f8&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Learn+More+About+Me+%E2%9E%A4" />
+      <a href="https://"><img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=16&duration=1&color=4493f8&background=FF000000&vCenter=true&repeat=false&width=350&height=21&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Check+out+my+Portfolio+%E2%9E%A4" />
      </a>
-     <details open>
-      <summary>
-        <a href="#"><img width="85" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&multiline=true&repeat=false&width=85&height=22&lines=Quick+Links" />
-      </summary>
-      &nbsp;&nbsp;&nbsp;
-      <a href="https://">
-        <img src="https://img.shields.io/badge/Portfolio-6C63FF.svg?logo=devdotto&logoColor=white" /></a>
-      <br>
-      &nbsp;&nbsp;&nbsp;
-      <a href="https://">
-        <img src="https://img.shields.io/badge/Resume-4CAF50.svg?logo=googledocs&logoColor=white" /></a>
-    </details>
   </details>
         
 </a>
@@ -228,11 +220,16 @@
 </div>
 
 
+<!-- View-Count -->
+<div align="center">
+  <img align="center" src="https://github-view-counter.vercel.app/api?style=nobg&label=false&username=piyush-kokane-5294">
+</div>
+
+
 <!-- Footer -->
 <img align="left" width="50" src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif">
 <img align="right" width="70" src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif">
 <img align="left" width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 
 

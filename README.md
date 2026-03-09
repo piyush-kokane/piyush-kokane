@@ -30,9 +30,9 @@
 <a href="#">
  
   <!-- About Me: Left column -->
-  ### <img width="500" align="left" alt="About"       src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=42&duration=1&pause=1000&background=FF000000&color=F70000&center=true&multiline=true&width=450&height=80&lines=About+Me" />
-  <img     width="500" align="left" alt="Title"       src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&duration=1&background=FF000000&color=fb8c00&center=true&vCenter=true&multiline=false&repeat=false&width=450&height=20&lines=Building+the+future+one+commit+at+a+time" />
-  <img     width="500" align="left" alt="Description" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&color=FFFFFF&background=FF000000&center=true&duration=1&multiline=true&repeat=false&width=450&height=250&lines=I'm%E2%80%8E+%E2%80%8E+passionate%E2%80%8E+%E2%80%8E+Full+Stack+Developer%E2%80%8E+%E2%80%8E+with+a%E2%80%8E+%E2%80%8E+strong+technical;background%E2%80%8E+%E2%80%8E+in%E2%80%8E+%E2%80%8E+web+development%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+software+engineering%2C;complemented+by%E2%80%8E+%E2%80%8E+experience+in%E2%80%8E+%E2%80%8E+UI%2FUX%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+Product+design.;Additionally%2C%E2%80%8E+%E2%80%8E+I+have%E2%80%8E%E2%80%8E+expertise%E2%80%8E+with+hardware+systems+allowing;me%E2%80%8E+%E2%80%8E+to+bridge%E2%80%8E+%E2%80%8E+the%E2%80%8E+%E2%80%8E+gap%E2%80%8E+%E2%80%8E+between%E2%80%8E+%E2%80%8E+software%E2%80%8E+%E2%80%8E+and%E2%80%8E%E2%80%8E+%E2%80%8E+hardware%E2%80%8E+%E2%80%8E+by;creating+integrated+solutions.+I+%E2%80%8Elove+turning+complex+problems;into+simple%2C+beautiful%2C+and+intuitive+solutions.;+;I'm+always+eager+to+learn+new+skills+and+collaborate;on+exciting+project" />
+  <img width="500" align="left" alt="About"       src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=42&duration=1&pause=1000&background=FF000000&color=F70000&center=true&multiline=true&width=450&height=80&lines=About+Me" />
+  <img width="500" align="left" alt="Title"       src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&duration=1&background=FF000000&color=fb8c00&center=true&vCenter=true&multiline=false&repeat=false&width=450&height=20&lines=Building+the+future+one+commit+at+a+time" />
+  <img width="500" align="left" alt="Description" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&color=FFFFFF&background=FF000000&center=true&duration=1&multiline=true&repeat=false&width=450&height=250&lines=I'm%E2%80%8E+%E2%80%8E+passionate%E2%80%8E+%E2%80%8E+Full+Stack+Developer%E2%80%8E+%E2%80%8E+with+a%E2%80%8E+%E2%80%8E+strong+technical;background%E2%80%8E+%E2%80%8E+in%E2%80%8E+%E2%80%8E+web+development%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+software+engineering%2C;complemented+by%E2%80%8E+%E2%80%8E+experience+in%E2%80%8E+%E2%80%8E+UI%2FUX%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+Product+design.;Additionally%2C%E2%80%8E+%E2%80%8E+I+have%E2%80%8E%E2%80%8E+expertise%E2%80%8E+with+hardware+systems+allowing;me%E2%80%8E+%E2%80%8E+to+bridge%E2%80%8E+%E2%80%8E+the%E2%80%8E+%E2%80%8E+gap%E2%80%8E+%E2%80%8E+between%E2%80%8E+%E2%80%8E+software%E2%80%8E+%E2%80%8E+and%E2%80%8E%E2%80%8E+%E2%80%8E+hardware%E2%80%8E+%E2%80%8E+by;creating+integrated+solutions.+I+%E2%80%8Elove+turning+complex+problems;into+simple%2C+beautiful%2C+and+intuitive+solutions.;+;I'm+always+eager+to+learn+new+skills+and+collaborate;on+exciting+project" />
   
   <!-- About Me: Right column - blank -->
   <img width="320" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&duration=1&background=FF000000&color=fb8c00&center=true&vCenter=true&multiline=false&repeat=false&width=450&height=148&lines=+" />
@@ -58,7 +58,7 @@
 
 
 
-### <!-- ================ SOCIALS ================ -->
+<!-- ================ SOCIALS ================ -->
 <div width="500" align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?background=80808000&width=1000&height=1&lines=+" /></a>
   
@@ -123,7 +123,7 @@
     <tr>
       <td align="center">
         <!-- My Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=piyush-kokane&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffdd&icon_color=90EE90&include_all_commits=true&count_private=false" alt="&nbsp;My Stats" />
+        <img src="https://github-readme-stats-101.vercel.app/api?username=piyush-kokane&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffdd&icon_color=90EE90&include_all_commits=true&count_private=false" alt="&nbsp;My Stats" />
       </td>
       <td align="center">
         <!-- My Streak -->

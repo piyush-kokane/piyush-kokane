@@ -123,27 +123,27 @@
     <tr>
       <td align="center">
         <!-- My Stats -->
-        <img src="https://github-readme-stats-101.vercel.app/api?username=piyush-kokane&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffdd&icon_color=90EE90&include_all_commits=true&count_private=false" alt="&nbsp;My Stats" />
+        <img src="https://github-readme-stats-7654.vercel.app/api?username=piyush-kokane&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffdd&icon_color=90EE90&include_all_commits=true&count_private=false" alt="&nbsp;My Stats" />
       </td>
       <td align="center">
         <!-- My Streak -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-kokane&theme=dark&background=00000000&title_color=fb8c00&text_color=a8fdf6&icon_color=90EE90&hide_border=true" alt="&nbsp;My Streak" />
+        <img src="https://github-readme-streak-stats-7654.vercel.app/api?user=piyush-kokane&theme=dark&background=00000000&title_color=fb8c00&text_color=a8fdf6&icon_color=90EE90&hide_border=true" alt="&nbsp;My Streak" />
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
         <!-- Contribution Graph -->
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-kokane&bg_color=00000000&hide_border=true&color=ffffff&point=cccccc&title_color=fb8c00&line=fb8c00&area_color=fb8c00&area=true" alt="&nbsp;Contribution Graph" />
+        <img src="https://github-readme-activity-graph-7654.vercel.app/graph?username=piyush-kokane&bg_color=00000000&hide_border=true&color=ffffff&point=cccccc&title_color=fb8c00&line=fb8c00&area_color=fb8c00&area=true" alt="&nbsp;Contribution Graph" />
       </td>
     </tr>
       <tr>
       <td align="center">
         <!-- Most Used Language -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-kokane&theme=dark&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffff&custom_title=Top%20Languages&include_all_commits=true&count_private=false&layout=compact&langs_count=6&card_width=470" alt="&nbsp;Most Used Language" />
+        <img src="https://github-readme-stats-7654.vercel.app/api/top-langs/?username=piyush-kokane&theme=dark&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffff&custom_title=Top%20Languages&include_all_commits=true&count_private=false&layout=compact&langs_count=6&card_width=470" alt="&nbsp;Most Used Language" />
       </td>
       <td align="center">
         <!-- My Wakatime -->
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&theme=dark&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffff&layout=compact&langs_count=6" alt="&nbsp;My Wakatime" />
+        <img src="https://github-readme-stats-7654.vercel.app/api/wakatime?username=ffflabs&theme=dark&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffff&layout=compact&langs_count=6" alt="&nbsp;My Wakatime" />
       </td>
     </tr>
     <tr>

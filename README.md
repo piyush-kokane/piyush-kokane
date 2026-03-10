@@ -196,7 +196,7 @@
 <details open>
   <summary><h2>🏆 Trophies</h2></summary>
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=piyush-kokane&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="&nbsp;My Trophies" />
+    <img src="https://github-profile-trophy-7654.vercel.app/api?username=piyush-kokane&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" alt="&nbsp;My Trophies" />
   </div>
 </details>
 

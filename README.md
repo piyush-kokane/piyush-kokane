@@ -48,7 +48,7 @@
     <summary >
       <a href="#">
         <picture>
-          <source media="(max-width: 576px)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&multiline=true&repeat=false&width=282&height=30&lines=More+About+Me">
+          <source media="(max-width: 576px)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&duration=1&color=FFFFFF&background=FF000000&multiline=true&repeat=false&width=282&height=30&lines=More+About+Me">
           <source media="(max-width: 992px)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=130&height=50&lines=More+About+Me">
           <img align="center" alt="More About Me" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&multiline=true&repeat=false&width=282&height=30&lines=More+About+Me" />
         </picture>
@@ -60,7 +60,7 @@
       <img alt="🤝 looking to collaborate on cool projects" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=300&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=320&height=16&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%A4%9D+looking+to+collaborate+on+cool+projects" />
       <img alt="😄 Fun fact: See my commits in year 2023"   src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=300&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=320&height=16&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Fun+fact%3A+See+my+commits+in+year+2023" />
       <a href="https://">
-        <img alt="😄 Check out my Portfolio ➤"             src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=500&duration=1&color=4493f8&background=FF000000&vCenter=true&repeat=false&width=320&height=16&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Check+out+my+Portfolio+%E2%9E%A4" />
+        <img alt="😄 Check out my Portfolio ➤"             src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=400&duration=1&color=4493f8&background=FF000000&vCenter=true&repeat=false&width=320&height=16&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Check+out+my+Portfolio+%E2%9E%A4" />
      </a>
   </details>
       

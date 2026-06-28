@@ -115,7 +115,7 @@
 <br> <br>
 
 
-<details open>
+<details>
   <summary><h2>📊 My Stats</h2></summary>
   
   <table>
@@ -146,44 +146,46 @@
         <img src="https://github-readme-stats-7654.vercel.app/api/wakatime?username=piyush_kokane&theme=dark&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffff&layout=compact&langs_count=6" alt="&nbsp;My Wakatime" />
       </td>
     </tr>
+    <!-- 
     <tr>
       <td colspan="2">
-        <!-- 📊 More Stats -->
+        <!-- 📊 More Stats -- >
         <br>
         <img align="left" src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=4&height=28&lines=+" />
         <details open>
           <summary><img align="left" src="https://readme-typing-svg.herokuapp.com?font=arial&size=16&duration=1&color=fb8c00&background=FF000000&vCenter=true&multiline=false&repeat=false&width=78&height=25&lines=More+Stats" /></summary>
           <br>
-          <!-- Stats 1 -->
+          <!-- Stats 1 -- >
           <img align="left" src="https://readme-typing-svg.herokuapp.com?background=FF000090&width=4&height=21&lines=+" />
           <details align="left" open>
             <summary>My Stats 1</summary>
-            <img align="left" width="99% "src="https://readme-typing-svg.herokuapp.com?background=FF000090&width=1000&height=4&lines=+" />
+            <img align="left" width="100%" src="https://readme-typing-svg.herokuapp.com?background=FF000090&width=1000&height=4&lines=+" />
             <img align="left" src="https://readme-typing-svg.herokuapp.com?background=FF000090&width=4&height=21&lines=+" />
             <pre>
-              🌞 Morning                942 commits         ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-              🌆 Daytime                1012 commits        ███████░░░░░░░░░░░░░░░░░░   27.47 % 
-              🌃 Evening                1555 commits        ███████████░░░░░░░░░░░░░░   42.21 % 
-              🌙 Night                  175 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+              🌞 Morning          942 commits         ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
+              🌆 Daytime          1012 commits        ███████░░░░░░░░░░░░░░░░░░   27.47 % 
+              🌃 Evening          1555 commits        ███████████░░░░░░░░░░░░░░   42.21 % 
+              🌙 Night            175 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
             </pre>
           </details>
-          <!-- Stats 2 -->
+          <!-- Stats 2 -- >
           <img align="left" src="https://readme-typing-svg.herokuapp.com?background=FF000090&width=4&height=21&lines=+" />
           <details align="left" open>
-            <summary>My Stats 1</summary>
-            <img align="left" width="99% "src="https://readme-typing-svg.herokuapp.com?background=FF000090&width=1000&height=4&lines=+" />
+            <summary>My Stats 2</summary>
+            <img align="left" width="100%" src="https://readme-typing-svg.herokuapp.com?background=FF000090&width=1000&height=4&lines=+" />
             <img align="left" src="https://readme-typing-svg.herokuapp.com?background=FF000090&width=4&height=21&lines=+" />
             <pre>
-              🌞 Morning                942 commits         ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-              🌆 Daytime                1012 commits        ███████░░░░░░░░░░░░░░░░░░   27.47 % 
-              🌃 Evening                1555 commits        ███████████░░░░░░░░░░░░░░   42.21 % 
-              🌙 Night                  175 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+              🌞 Morning          942 commits         ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
+              🌆 Daytime          1012 commits        ███████░░░░░░░░░░░░░░░░░░   27.47 % 
+              🌃 Evening          1555 commits        ███████████░░░░░░░░░░░░░░   42.21 % 
+              🌙 Night            175 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
             </pre>
           </details>
         </details>
         <img align="left" src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=100&height=1&lines=+" />
       </td>
-    </tr>
+    </tr> 
+    -->
   </table>
 </details>
 
@@ -193,7 +195,7 @@
 
 
 <!-- Trophies -->
-<details open>
+<details>
   <summary><h2>🏆 Trophies</h2></summary>
   <div align="center">
     <img src="https://github-profile-trophy-7654.vercel.app/api?username=piyush-kokane&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" alt="&nbsp;My Trophies" />

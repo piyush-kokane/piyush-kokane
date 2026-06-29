@@ -212,11 +212,10 @@
 
 
 <!-- Trophies -->
-<br>
 <details>
   <summary>
     <a href="#">
-      <img align="center" alt="🏆 Trophies" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&duration=1&pause=1000&background=FF000000&color=FFFFFF&multiline=true&width=300&height=45&lines=🏆+Trophies" />
+      <img align="center" alt="🏆 Trophies" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&duration=1&pause=1000&background=FF000000&color=FFFFFF&vCenter=true&width=300&height=60&lines=🏆+Trophies" />
     </a>
   </summary>
   <div align="center">

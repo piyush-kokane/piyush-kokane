@@ -50,13 +50,11 @@
   <!-- More About Me -->
   <details open>
     <summary>
-      <a href="#">
-        <picture>
-          <source media="(max-width: 576px)"      srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&duration=1&color=FFFFFF&background=FF000000&multiline=true&repeat=false&width=282&height=30&lines=More+About+Me" /> <!-- small screen -->
-          <source media="(max-width: 992px)"      srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=130&height=50&lines=More+About+Me" /> <!-- medium screen -->
-          <img align="center" alt="More About Me" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&multiline=true&repeat=false&width=282&height=30&lines=More+About+Me" /> <!-- large screen -->
-        </picture>
-      </a>
+      <picture>
+        <source media="(max-width: 576px)"      srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&duration=1&color=FFFFFF&background=FF000000&multiline=true&repeat=false&width=282&height=30&lines=More+About+Me" /> <!-- small screen -->
+        <source media="(max-width: 992px)"      srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=130&height=50&lines=More+About+Me" /> <!-- medium screen -->
+        <img align="center" alt="More About Me" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=1&color=FFFFFF&background=FF000000&multiline=true&repeat=false&width=282&height=30&lines=More+About+Me" /> <!-- large screen -->
+      </picture>
     </summary>
     <picture>
       <img alt="🖥️ Currently working on MERN Stack"         src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=300&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=320&height=16&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%96%A5%EF%B8%8F+Currently+working+on+MERN+Stack" />
@@ -77,7 +75,7 @@
 <!-- ================ SOCIALS ================ -->
 <div align="center">
   <!-- blank -->
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=1000&height=1&lines=+" /></a>
+  <picture><img src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=1000&height=1&lines=+" /><picture>
   
   <!-- linkedin -->
   <a href="https://www.linkedin.com/in/piyush-kokane">
@@ -107,13 +105,14 @@
   <!-- instagram -->
   <a href="https://www.instagram.com/piyush.k_3700">
     <img alt="Instagram" src="https://www.readmecodegen.com/api/social-icon?name=instagram&color=%23d62976&size=32" /></a>
+
 </div>
 
 
 
 <!-- *** Line *** -->
 <br> <br>
-<a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808050&width=800&height=2&lines=+" />
+<picture><img width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808050&width=800&height=2&lines=+" /></picture>
 <br> <br>
 
 

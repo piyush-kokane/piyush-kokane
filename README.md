@@ -208,10 +208,11 @@
 
 
 <!-- Line -->
-<img width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808050&width=800&height=2&lines=+">
+<img align="left" width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808050&width=800&height=2&lines=+">
 
 
 <!-- Trophies -->
+<br>
 <details>
   <summary>
     <a href="#">
@@ -225,7 +226,7 @@
 
 
 <!-- Line -->
-<img width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808050&width=800&height=2&lines=+">
+<img align="left" width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808050&width=800&height=2&lines=+">
 
 
 <!-- Holopin Badges -->

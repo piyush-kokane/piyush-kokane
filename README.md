@@ -17,13 +17,11 @@
 
 <!-- ================ HEADER ================ -->
 <div align="center">
-  <a href="#">
+  <picture>
     <img width="300" alt="Profile pic" src="/assets/Black_and_White_Profile_Picture.png" />
-  <br>
-    
-  <a href="#">
-    <img width="500" alt="My title" src="https://readme-typing-svg.herokuapp.com?font=arial&size=18&duration=3000&pause=5000&color=00FF00&background=FF000000&center=true&vCenter=true&width=450&height=32&lines=~+Welcome+to+my+GitHub!+~;~+A+Full+Stack+Developer+~;~+A+UI%2FUX+and+Product+designer+~;~+I+%E2%9D%A4%EF%B8%8F+coding+~;~+I+explore+cool+tech+projects+~;~+Let's+collaborate!+~" />
-
+    <img width="100%"                  src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=1000&height=1&lines=+" /> <!-- spacer -->
+    <img width="500" alt="My title"    src="https://readme-typing-svg.herokuapp.com?font=arial&size=18&duration=3000&pause=5000&color=00FF00&background=FF000000&center=true&vCenter=true&width=450&height=32&lines=~+Welcome+to+my+GitHub!+~;~+A+Full+Stack+Developer+~;~+A+UI%2FUX+and+Product+designer+~;~+I+%E2%9D%A4%EF%B8%8F+coding+~;~+I+explore+cool+tech+projects+~;~+Let's+collaborate!+~" />
+  </picture>
 </div>
 <br> <br>
 

@@ -212,9 +212,12 @@
 
 
 <!-- Trophies -->
+<br>
 <details>
   <summary>
-    <img align="center" alt="🏆 Trophies" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&duration=1&pause=1000&background=FF000000&color=FFFFFF&multiline=true&width=300&height=45&lines=🏆+Trophies" />
+    <a href="#">
+      <img align="center" alt="🏆 Trophies" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&duration=1&pause=1000&background=FF000000&color=FFFFFF&multiline=true&width=300&height=45&lines=🏆+Trophies" />
+    </a>
   </summary>
   <div align="center">
     <img src="https://github-profile-trophy-7654.vercel.app/api?username=piyush-kokane&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" alt="&nbsp;My Trophies" />

@@ -1,33 +1,35 @@
 <sup>* This `Profile README.md` is still under development</sup>
 
 <!-- ================ QUICK LINKS ================ -->
-<a href="https://">
-  <img align="left" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6C63FF.svg?logo=devdotto&logoColor=white" /></a>
+<div>
+  <!-- portfolio -->
+  <a href="https://">
+    <img align="left" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6C63FF.svg?logo=devdotto&logoColor=white" /></a>
+  
+  <!-- resume -->
+  <a href="https://">
+    <img align="right" alt="Resume" src="https://img.shields.io/badge/Resume-4CAF50.svg?logo=googledocs&logoColor=white" /></a>
 
-<a href="https://">
-  <img align="right" alt="Resume" src="https://img.shields.io/badge/Resume-4CAF50.svg?logo=googledocs&logoColor=white" /></a>
-
+</div>
 <br> <br>
 
 
 
 <!-- ================ HEADER ================ -->
-<p align="center">
-
+<div align="center">
   <a href="#">
     <img width="300" alt="Profile pic" src="/assets/Black_and_White_Profile_Picture.png" />
-
   <br>
+    
   <a href="#">
     <img width="500" alt="My title" src="https://readme-typing-svg.herokuapp.com?font=arial&size=18&duration=3000&pause=5000&color=00FF00&background=FF000000&center=true&vCenter=true&width=450&height=32&lines=~+Welcome+to+my+GitHub!+~;~+A+Full+Stack+Developer+~;~+A+UI%2FUX+and+Product+designer+~;~+I+%E2%9D%A4%EF%B8%8F+coding+~;~+I+explore+cool+tech+projects+~;~+Let's+collaborate!+~" />
 
-</p>
+</div>
 <br> <br>
 
 
 
 <!-- ================ ABOUT ME ================ -->
-
 <div align="center">
   <!-- Paragraph - Large Screen -->
   <picture>
@@ -58,13 +60,13 @@
         </picture>
       </a>
     </summary>
-    <a href="#">
+    <picture>
       <img alt="🖥️ Currently working on MERN Stack"         src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=300&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=320&height=16&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%96%A5%EF%B8%8F+Currently+working+on+MERN+Stack" />
       <img alt="📚 Currently learning Android Studio"       src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=300&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=320&height=16&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%93%9A+Currently+learning+Android+Studio" />
       <img alt="👨‍🎓 Pursuing B.Sc. cs. at MIT-WPU"           src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=300&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=320&height=16&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Pursuing+B.Sc.+cs.+at+MIT-WPU" />
       <img alt="🤝 looking to collaborate on cool projects" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=300&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=320&height=16&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%A4%9D+looking+to+collaborate+on+cool+projects" />
       <img alt="😄 Fun fact: See my commits in year 2023"   src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=300&duration=1&color=FFFFFF&background=FF000000&vCenter=true&repeat=false&width=320&height=16&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Fun+fact%3A+See+my+commits+in+year+2023" />
-    </a>
+    </picture>
     <a href="https://">
       <img alt="😄 Check out my Portfolio ➤"               src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=400&duration=1&color=4493f8&background=FF000000&vCenter=true&repeat=false&width=320&height=16&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Check+out+my+Portfolio+%E2%9E%A4" />
     </a>
@@ -215,9 +217,9 @@
 <br>
 <details>
   <summary>
-    <a href="#">
-      <img align="center" alt="🏆 Trophies" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&duration=1&pause=1000&background=FF000000&color=FFFFFF&vCenter=true&width=300&height=60&lines=🏆+Trophies" />
-    </a>
+    <picture>
+      <img align="center" alt="🏆 Trophies" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&duration=1&pause=1000&background=FF000000&color=FFFFFF&vCenter=true&width=250&height=60&lines=🏆+Trophies" />
+    </picture>
   </summary>
   <div align="center">
     <img src="https://github-profile-trophy-7654.vercel.app/api?username=piyush-kokane&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" alt="&nbsp;My Trophies" />

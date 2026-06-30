@@ -127,8 +127,7 @@
   <!-- Image -->
   <picture>
     <source media="(max-width: 992px)"  width="0"   srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- small screen - blank -->
-    <source media="(max-width: 1050px)" width="35%" srcset="/assets/Tech-Stack.png" /> <!-- medium screen -->
-    <source media="(max-width: 1100px)" width="40%" srcset="/assets/Tech-Stack.png" /> <!-- medium screen -->
+    <source media="(max-width: 1100px)" width="35%" srcset="/assets/Tech-Stack.png" /> <!-- medium screen -->
     <img align="left"                   width="45%" src="/assets/Tech-Stack.png" /> <!-- large screen -->
   </picture>
 
@@ -155,11 +154,12 @@
       <source media="(max-width: 992px)"                     srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
       <img align="right" alt="See my complete Tech Stack ➤" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=4493f8&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=20&lines=🞜+See+my+complete+Tech+Stack+%E2%9E%A4" />
     </picture>
-    <!-- medium screen -->
+    <!-- small and medium screen -->
     <picture>
       <source media="(min-width: 992px)"       srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
-      <img alt="See my complete Tech Stack ➤" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=4493f8&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=20&lines=🞜+See+my+complete+Tech+Stack+%E2%9E%A4" />
-    </picture>
+      <source media="(max-width: 576px)"       srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&weight=400&color=4493f8&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=20&lines=🞜+See+my+complete+Tech+Stack+%E2%9E%A4" /> <!-- small screen -->
+      <img alt="See my complete Tech Stack ➤" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=4493f8&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=20&lines=🞜+See+my+complete+Tech+Stack+%E2%9E%A4" /> <!-- medium screen -->
+    </picture>    
   </a>
 
 </div>

@@ -47,7 +47,7 @@
   <picture>
     <source media="(min-width: 992px)" srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
     <img                               src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=1000&height=1&lines=+" /> <!-- spacer -->
-    <img alt="About"                   src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=42&weight=800&color=F7000&background=FF0000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=80&lines=About+Me" />
+    <img alt="About"                   src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=42&weight=800&color=F70000&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=80&lines=About+Me" />
     <img alt="Title"                   src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&weight=400&color=fb8c00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=450&height=20&lines=Building+the+future+one+commit+at+a+time" />
     <img alt="Description"             src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=FFFFFF&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=250&lines=I'm%E2%80%8E+%E2%80%8E+passionate%E2%80%8E+%E2%80%8E+Full+Stack+Developer%E2%80%8E+%E2%80%8E+with+a%E2%80%8E+%E2%80%8E+strong+technical;background%E2%80%8E+%E2%80%8E+in%E2%80%8E+%E2%80%8E+web+development%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+software+engineering%2C;complemented+by%E2%80%8E+%E2%80%8E+experience+in%E2%80%8E+%E2%80%8E+UI%2FUX%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+Product+design.;Additionally%2C%E2%80%8E+%E2%80%8E+I+have%E2%80%8E%E2%80%8E+expertise%E2%80%8E+with+hardware+systems+allowing;me%E2%80%8E+%E2%80%8E+to+%E2%80%8E+bridge%E2%80%8E+%E2%80%8E+the%E2%80%8E+%E2%80%8E+gap%E2%80%8E+%E2%80%8E+between%E2%80%8E+%E2%80%8E+software%E2%80%8E+%E2%80%8E+and%E2%80%8E%E2%80%8E+%E2%80%8E+hardware%E2%80%8E+%E2%80%8E+by;creating+integrated+solutions.+I+%E2%80%8Elove+turning+complex+problems;into+simple%2C+beautiful%2C+and+intuitive+solutions.;+;I'm+always+eager+to+learn+new+skills+and+collaborate;on+exciting+project" />
   </picture>
@@ -122,95 +122,42 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- ================ TECH STACK ================ -->
 <div align="center">
-  <img align="left" width="400" src="/assets/Tech-Stack.png" />
- 
+  <!-- Image -->
+  <picture>
+    <source media="(max-width: 992px)"  width="0"   srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- small screen - blank -->
+    <source media="(max-width: 1100px)" width="38%" srcset="/assets/Tech-Stack.png" /> <!-- medium screen -->
+    <img align="left"                   width="45%" src="/assets/Tech-Stack.png" /> <!-- large screen -->
+  </picture>
+
   <!-- Paragraph - Large Screen -->
   <picture>
-    <source media="(max-width: 992px)"                     srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
-    <img align="right" alt="Tech Stack"                    src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=42&weight=800&color=F70000&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=500&height=80&lines=Tech+Stack" />
-    <img align="right" alt="Title"                         src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&weight=400&color=fb8c00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=20&lines=Building+digital+solutions+from+code+to+circuit" />
-    <img align="right" alt="Description"                   src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=FFFFFF&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=500&height=93&lines=Full-stack+developer+experienced+in+MERN+stack%2C+mobile;app+%E2%80%8E+%E2%80%8E+development%2C+%E2%80%8E+%E2%80%8E+%E2%80%8E+AI%2FML%2C+%E2%80%8E+%E2%80%8E+and+%E2%80%8E+%E2%80%8E+game+%E2%80%8E+%E2%80%8E+development.;I+%E2%80%8E+also+%E2%80%8E+work+%E2%80%8E+with+%E2%80%8E+microcontrollers+%E2%80%8E+and+%E2%80%8E+SoCs%2C+%E2%80%8E+bridging;software+%E2%80%8E+%E2%80%8E+%E2%80%8E+and+%E2%80%8E+%E2%80%8E+%E2%80%8E+hardware+%E2%80%8E+%E2%80%8E+%E2%80%8E+into+%E2%80%8E+%E2%80%8E+integrated+%E2%80%8E+%E2%80%8E+solutions." />
+    <source media="(max-width: 992px)"   srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
+    <img alt="Tech Stack"  src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=42&weight=800&color=F70000&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=500&height=80&lines=Tech+Stack" />
+    <img alt="Title"       src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&weight=400&color=fb8c00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=20&lines=Building+digital+solutions+from+code+to+circuit" />
+    <img alt="Description" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=FFFFFF&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=500&height=110&lines=Full-stack+developer+experienced+in+MERN+stack%2C+mobile;app+%E2%80%8E+%E2%80%8E+development%2C+%E2%80%8E+%E2%80%8E+%E2%80%8E+AI%2FML%2C+%E2%80%8E+%E2%80%8E+and+%E2%80%8E+%E2%80%8E+game+%E2%80%8E+%E2%80%8E+development.;I+%E2%80%8E+also+%E2%80%8E+work+%E2%80%8E+with+%E2%80%8E+microcontrollers+%E2%80%8E+and+%E2%80%8E+SoCs%2C+%E2%80%8E+bridging;software+%E2%80%8E+%E2%80%8E+%E2%80%8E+and+%E2%80%8E+%E2%80%8E+%E2%80%8E+hardware+%E2%80%8E+%E2%80%8E+%E2%80%8E+into+%E2%80%8E+%E2%80%8E+integrated+%E2%80%8E+%E2%80%8E+solutions." />
   </picture>
 
   <!-- Paragraph - Medium Screen -->
   <picture>
     <source media="(min-width: 992px)" srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
-    <img                               src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=1000&height=1&lines=+" /> <!-- spacer -->
-    <img alt="Tech Stack"              src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=42&weight=800&color=F7000&background=FF0000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=80&lines=Tech+Stack" />
+    <img alt="Tech Stack"              src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=42&weight=800&color=F70000&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=80&lines=Tech+Stack" />
     <img alt="Title"                   src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&weight=400&color=fb8c00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=450&height=20&lines=Building+digital+solutions+from+code+to+circuit" />
-    <img alt="Description"             src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=FFFFFF&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=150&lines=Expertise+spanning+from+%E2%80%8E+full-stack+%E2%80%8E+web+%E2%80%8E+development+using;MERN+stack+%E2%80%8E+to+%E2%80%8E+mobile+app+development%2C%E2%80%8E+AI%2FML%2C%E2%80%8E+and+%E2%80%8E%E2%80%8E+game;development.+My+technical+proficiency+extends+to+%E2%80%8E+hardware%2C;where+I+work+with+microcontrollers+and+processors%2C+enabling;seamless+integration%E2%80%8E+%E2%80%8E+of%E2%80%8E+%E2%80%8E+software%E2%80%8E+%E2%80%8E+and%E2%80%8E+%E2%80%8E+hardware%E2%80%8E+%E2%80%8E+solutions." />
+    <img alt="Description"             src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=FFFFFF&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=110&lines=Full-stack+developer+experienced+in+MERN+stack%2C+mobile;app+%E2%80%8E+%E2%80%8E+development%2C+%E2%80%8E+%E2%80%8E+%E2%80%8E+AI%2FML%2C+%E2%80%8E+%E2%80%8E+and+%E2%80%8E+%E2%80%8E+game+%E2%80%8E+%E2%80%8E+development.;I+%E2%80%8E+also+%E2%80%8E+work+%E2%80%8E+with+%E2%80%8E+microcontrollers+%E2%80%8E+and+%E2%80%8E+SoCs%2C+%E2%80%8E+bridging;software+%E2%80%8E+%E2%80%8E+%E2%80%8E+and+%E2%80%8E+%E2%80%8E+%E2%80%8E+hardware+%E2%80%8E+%E2%80%8E+%E2%80%8E+into+%E2%80%8E+%E2%80%8E+integrated+%E2%80%8E+%E2%80%8E+solutions." />
   </picture>
 
   <a href="https://">
-    <img align="right" alt="See my complete Tech Stack ➤" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=4493f8&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=20&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+🞜+See+my+complete+Tech+Stack+%E2%9E%A4" />
+    <img alt="See my complete Tech Stack ➤" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=4493f8&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=20&lines=🞜+See+my+complete+Tech+Stack+%E2%9E%A4" />
   </a>
 
-
-
 </div>
-
-
-<br> <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 <!-- *** Line *** -->
 <br> <br>
-<picture><img width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808050&width=800&height=2&lines=+" /></picture>
-<br> <br>
+<picture><img align="left" width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808050&width=800&height=2&lines=+" /></picture>
 
 
 

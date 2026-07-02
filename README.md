@@ -293,7 +293,7 @@
 
 
 <!-- ================ MY STATS ================ -->
-  <details open>
+  <details>
     <summary>
       <picture>
         <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=📊+My+Stats" />

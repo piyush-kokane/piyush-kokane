@@ -262,7 +262,7 @@
 
 
 <!-- ================ MY STATS ================ -->
-  <details>
+  <details open>
     <summary>
       <picture>
         <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=📊+My+Stats" />
@@ -275,27 +275,47 @@
       <tr>
         <td align="center">
           <!-- My Stats -->
-          <img src="https://github-readme-stats-7654.vercel.app/api?username=piyush-kokane&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffdd&icon_color=90EE90&include_all_commits=true&count_private=false" alt="&nbsp;My Stats" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats-7654.vercel.app/api?username=piyush-kokane&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=FFFFFF&icon_color=fb8c00&show_icons=true&include_all_commits=true&count_private=true" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-7654.vercel.app/api?username=piyush-kokane&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=000000&icon_color=fb8c00&show_icons=true&include_all_commits=true&count_private=true" />
+            <img alt="&nbsp;My Stats" />
+          </picture>
         </td>
         <td align="center">
           <!-- My Streak -->
-          <img src="https://github-readme-streak-stats-7654.vercel.app/api?user=piyush-kokane&theme=dark&background=00000000&title_color=fb8c00&text_color=a8fdf6&icon_color=90EE90&hide_border=true" alt="&nbsp;My Streak" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-streak-stats-7654.vercel.app/api?user=piyush-kokane&theme=dark&hide_border=true&background=00000000" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-7654.vercel.app/api?user=piyush-kokane&hide_border=true&background=00000000" />
+            <img alt="&nbsp;My Streak" />
+          </picture>
         </td>
       </tr>
       <tr>
         <td align="center" colspan="2">
           <!-- Contribution Graph -->
-          <img src="https://github-readme-activity-graph-7654.vercel.app/graph?username=piyush-kokane&bg_color=00000000&hide_border=true&color=ffffff&point=cccccc&title_color=fb8c00&line=fb8c00&area_color=fb8c00&area=true" alt="&nbsp;Contribution Graph" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph-7654.vercel.app/graph?username=piyush-kokane&hide_border=true&bg_color=00000000&color=ffffff&point=cccccc&title_color=fb8c00&line=fb8c00&area_color=fb8c00&area=true" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-7654.vercel.app/graph?username=piyush-kokane&hide_border=true&bg_color=00000000&color=000000&point=bbbbbb&title_color=fb8c00&line=fb8c00&area_color=fb8c00&area=true" />
+            <img alt="&nbsp;Contribution Graph" />
+          </picture>
         </td>
       </tr>
         <tr>
         <td align="center" valign="top">
           <!-- Most Used Language -->
-          <img src="https://github-readme-stats-7654.vercel.app/api/top-langs/?username=piyush-kokane&theme=dark&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffff&custom_title=Top%20Languages&include_all_commits=true&count_private=false&layout=compact&langs_count=6&card_width=470" alt="&nbsp;Most Used Language" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats-7654.vercel.app/api/top-langs/?username=piyush-kokane&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffff&custom_title=Top%20Languages&include_all_commits=true&count_private=true&layout=compact&langs_count=6&card_width=470" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-7654.vercel.app/api/top-langs/?username=piyush-kokane&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=000000&custom_title=Top%20Languages&include_all_commits=true&count_private=true&layout=compact&langs_count=6&card_width=470" />
+            <img alt="&nbsp;Most Used Language" />
+          </picture>
         </td>
         <td align="center" valign="top">
           <!-- My Wakatime -->
-          <img src="https://github-readme-stats-7654.vercel.app/api/wakatime?username=piyush_kokane&theme=dark&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffff&layout=compact&langs_count=6" alt="&nbsp;My Wakatime" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats-7654.vercel.app/api/wakatime?username=piyush_kokane&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffff&layout=compact&langs_count=6" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-7654.vercel.app/api/wakatime?username=piyush_kokane&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=000000&layout=compact&langs_count=6" />
+            <img alt="&nbsp;My Wakatime" />
+          </picture>
         </td>
       </tr>
       <!--
@@ -361,7 +381,7 @@
     </summary>
     <div align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-trophy-7654.vercel.app/api?username=piyush-kokane&theme=dark_lover&no-frame=true&no-bg=true&margin-w=10&row=1" alt="&nbsp;My Trophies" />
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-trophy-7654.vercel.app/api?username=piyush-kokane&theme=monokai&no-frame=true&no-bg=true&margin-w=10&row=1" alt="&nbsp;My Trophies" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-7654.vercel.app/api?username=piyush-kokane&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="&nbsp;My Trophies" />
         <img alt="&nbsp;My Trophies" />
       </picture>

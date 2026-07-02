@@ -85,7 +85,7 @@
       <picture>
         <source media="(max-width: 992px)"            srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
         <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=FFFFFF&background=FF000000&multiline=true&duration=1&repeat=false&width=282&height=30&lines=More+About+Me" /> <!-- large screen -->
-        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=FFFFFF&background=FF000000&multiline=true&duration=1&repeat=false&width=282&height=30&lines=More+About+Me" /> <!-- large screen -->
+        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=000000&background=FF000000&multiline=true&duration=1&repeat=false&width=282&height=30&lines=More+About+Me" /> <!-- large screen -->
         <img align="center" alt="More About Me" />
       </picture>
       <picture>

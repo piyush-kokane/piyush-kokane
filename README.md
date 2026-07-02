@@ -176,7 +176,12 @@
   
   <!-- Dev.to -->
   <a href="https://dev.to/piyush_kokane">
-    <img alt="X" src="https://www.readmecodegen.com/api/social-icon?name=dev&size=32&bg=%23000000&color=%23ffffff" /></a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="https://www.readmecodegen.com/api/social-icon?name=dev&size=32&bg=%23000000&color=%23ffffff" />
+      <source media="(prefers-color-scheme: light)" srcset="https://www.readmecodegen.com/api/social-icon?name=dev&size=32&bg=%23000000&color=%23000000" />
+      <img alt="Dev.to" />
+    <picture>
+  </a>
   &nbsp;&nbsp;&nbsp;
     
   <!-- Email -->
@@ -258,7 +263,9 @@
 <details>
   <summary>
     <picture>
-      <img align="center" alt="📊 My Stats" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=📊+My+Stats" />
+      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=📊+My+Stats" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=📊+My+Stats" />
+      <img align="center" alt="📊 My Stats" />
     </picture>
   </summary>
   <table>
@@ -344,7 +351,9 @@
 <details>
   <summary>
     <picture>
-      <img align="center" alt="🏆 Trophies" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=🏆+Trophies" />
+      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=🏆+Trophies" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=🏆+Trophies" />
+      <img align="center" alt="🏆 Trophies" />
     </picture>
   </summary>
   <div align="center">
@@ -364,7 +373,9 @@
 <details>
   <summary>
     <picture>
-      <img align="center" alt="🏷️ Holopin Badges" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=🏷️+Holopin+Badges" />
+      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=🏷️+Holopin+Badges" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=🏷️+Holopin+Badges" />
+      <img align="center" alt="🏷️ Holopin Badges" />
     </picture>
   </summary>
   <div align="center">
@@ -383,31 +394,23 @@
 
 
 <!-- ================ FOOTER ================ -->
-<!-- Quote -->
+<!----- Quote ----->
 <div align="center">
   <picture>
-    <img width="600" src="https://readme-typing-svg.herokuapp.com?font=arial&size=64&color=FB8C00&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=500&height=38&lines=%E2%80%9C" >
-    <img width="600" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&weight=800&color=808080&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=500&height=105&lines=If+you+need+more+than+3+levels;of+indentation%2C+you're;screwed+anyway%2C+and+should;fix+your+program." alt="&nbsp;Quote" >
-    <img width="600" src="https://readme-typing-svg.herokuapp.com?font=arial&size=64&color=FB8C00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=60&lines=%E2%80%9D" >
+    <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=64&color=FB8C00&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=600&height=38&lines=%E2%80%9C" >
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&weight=600&color=808080&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=600&height=120&lines=If+you+need+more+than+3+levels;of+indentation%2C+you're;screwed+anyway%2C+and+should;fix+your+program." alt="&nbsp;Quote" >
+    <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=64&color=FB8C00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=600&height=60&lines=%E2%80%9D" >
   </picture>
 </div>
 
-<!-- View Count -->
+<!----- View Count ----->
 <div align="center">
   <picture>
     <img src="https://github-view-counter.vercel.app/api?style=nobg&label=false&username=piyush-kokane-5294">
   </picture>
 </div>
 
-<!-- Footer -->
+<!----- Footer ----->
 <img align="left" width="50" src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif">
 <img align="right" width="70" src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif">
 <img align="left" width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<!-- Complete Tech Stack
-<h2 align="center">Complete Tech Stack</h2>
-
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-<br><br><br><br>
--->

@@ -25,7 +25,9 @@
 <div align="center">
   <picture>
     <!-- Title -->
-    <img width="500" alt="My title" src="https://readme-typing-svg.herokuapp.com?font=arial&size=18&duration=3000&pause=5000&color=00FF00&background=FF000000&center=true&vCenter=true&width=450&height=32&lines=~+Welcome+to+my+GitHub!+~;~+A+Full+Stack+Developer+~;~+A+UI%2FUX+and+Product+designer+~;~+I+%E2%9D%A4%EF%B8%8F+coding+~;~+I+explore+cool+tech+projects+~;~+Let's+collaborate!+~" />
+    <source (prefers-color-scheme: dark)  srcset="https://readme-typing-svg.herokuapp.com?font=arial&size=18&duration=3000&pause=5000&color=00FF00&background=FF000000&center=true&vCenter=true&width=450&height=32&lines=~+Welcome+to+my+GitHub!+~;~+A+Full+Stack+Developer+~;~+A+UI%2FUX+and+Product+designer+~;~+I+%E2%9D%A4%EF%B8%8F+coding+~;~+I+explore+cool+tech+projects+~;~+Let's+collaborate!+~" />
+    <source (prefers-color-scheme: light) srcset="https://readme-typing-svg.herokuapp.com?font=arial&size=18&duration=3000&pause=5000&color=006400&background=FF000000&center=true&vCenter=true&width=450&height=32&lines=~+Welcome+to+my+GitHub!+~;~+A+Full+Stack+Developer+~;~+A+UI%2FUX+and+Product+designer+~;~+I+%E2%9D%A4%EF%B8%8F+coding+~;~+I+explore+cool+tech+projects+~;~+Let's+collaborate!+~" />
+    <img width="500" alt="My title" />
   </picture>
 </div>
 <br> <br>
@@ -77,15 +79,27 @@
     <img alt="Description" />
   </picture>
 
-
-
   <!-- More About Me -->
   <details open>
     <summary>
       <picture>
-        <source media="(max-width: 576px)"      srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=400&color=FFFFFF&background=FF000000&multiline=true&duration=1&repeat=false&width=282&height=30&lines=More+About+Me" /> <!-- small screen -->
-        <source media="(max-width: 992px)"      srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=130&height=50&lines=More+About+Me" /> <!-- medium screen -->
-        <img align="center" alt="More About Me" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=FFFFFF&background=FF000000&&multiline=true&duration=1&repeat=false&width=282&height=30&lines=More+About+Me" /> <!-- large screen -->
+        <source media="(max-width: 992px)"            srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
+        <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=FFFFFF&background=FF000000&multiline=true&duration=1&repeat=false&width=282&height=30&lines=More+About+Me" /> <!-- large screen -->
+        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=FFFFFF&background=FF000000&multiline=true&duration=1&repeat=false&width=282&height=30&lines=More+About+Me" /> <!-- large screen -->
+        <img align="center" alt="More About Me" />
+      </picture>
+      <picture>
+        <source media="(max-width: 576px)" srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
+        <source media="(min-width: 992px)" srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
+        <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=130&height=50&lines=More+About+Me" /> <!-- large screen -->
+        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=130&height=50&lines=More+About+Me" /> <!-- large screen -->
+        <img align="center" alt="More About Me" />
+      </picture>
+      <picture>
+        <source media="(min-width: 576px)"            srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
+        <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=400&color=FFFFFF&background=FF000000&multiline=true&duration=1&repeat=false&width=282&height=30&lines=More+About+Me" /> <!-- large screen -->
+        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=400&color=000000&background=FF000000&multiline=true&duration=1&repeat=false&width=282&height=30&lines=More+About+Me" /> <!-- large screen -->
+        <img align="center" alt="More About Me" />
       </picture>
     </summary>
     <picture>

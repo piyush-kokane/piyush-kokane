@@ -215,7 +215,7 @@
   <picture>
     <source media="(max-width: 992px)"  width="0"   srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- small screen - blank -->
     <source media="(max-width: 1100px)" width="35%" srcset="/assets/Tech-Stack.png" /> <!-- medium screen -->
-    <img align="left"                   width="40%" src="/assets/Tech-Stack.png" /> <!-- large screen -->
+    <img align="left"                   width="45%" src="/assets/Tech-Stack.png" /> <!-- large screen -->
   </picture>
   
   <!----- Large Screen ----->

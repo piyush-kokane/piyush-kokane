@@ -406,7 +406,7 @@
 <!----- View Count ----->
 <div align="center">
   <picture>
-    <img src="https://github-view-counter.vercel.app/api?style=nobg&label=false&username=piyush-kokane-5294">
+    <img src="https://github-view-counter.vercel.app/api?style=nobg&label=false&color=80808080&username=piyush-kokane-5294">
   </picture>
 </div>
 

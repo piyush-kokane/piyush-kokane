@@ -205,6 +205,7 @@
 <!-- *** Line *** -->
 <br> <br>
 <picture><img width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808050&width=800&height=2&lines=+" /></picture>
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <br> <br>
 
 
@@ -256,161 +257,169 @@
 <!-- *** Line *** -->
 <br> <br>
 <picture><img width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808050&width=800&height=2&lines=+" /></picture>
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
 
 <!-- ================ MY STATS ================ -->
-<details>
-  <summary>
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=📊+My+Stats" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=📊+My+Stats" />
-      <img align="center" alt="📊 My Stats" />
-    </picture>
-  </summary>
-  <table>
-    <tr />
-    <tr>
-      <td align="center">
-        <!-- My Stats -->
-        <img src="https://github-readme-stats-7654.vercel.app/api?username=piyush-kokane&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffdd&icon_color=90EE90&include_all_commits=true&count_private=false" alt="&nbsp;My Stats" />
-      </td>
-      <td align="center">
-        <!-- My Streak -->
-        <img src="https://github-readme-streak-stats-7654.vercel.app/api?user=piyush-kokane&theme=dark&background=00000000&title_color=fb8c00&text_color=a8fdf6&icon_color=90EE90&hide_border=true" alt="&nbsp;My Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <!-- Contribution Graph -->
-        <img src="https://github-readme-activity-graph-7654.vercel.app/graph?username=piyush-kokane&bg_color=00000000&hide_border=true&color=ffffff&point=cccccc&title_color=fb8c00&line=fb8c00&area_color=fb8c00&area=true" alt="&nbsp;Contribution Graph" />
-      </td>
-    </tr>
+  <details>
+    <summary>
+      <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=📊+My+Stats" />
+        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=📊+My+Stats" />
+        <img align="center" alt="📊 My Stats" />
+      </picture>
+    </summary>
+    <table>
+      <tr />
       <tr>
-      <td align="center" valign="top">
-        <!-- Most Used Language -->
-        <img src="https://github-readme-stats-7654.vercel.app/api/top-langs/?username=piyush-kokane&theme=dark&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffff&custom_title=Top%20Languages&include_all_commits=true&count_private=false&layout=compact&langs_count=6&card_width=470" alt="&nbsp;Most Used Language" />
-      </td>
-      <td align="center" valign="top">
-        <!-- My Wakatime -->
-        <img src="https://github-readme-stats-7654.vercel.app/api/wakatime?username=piyush_kokane&theme=dark&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffff&layout=compact&langs_count=6" alt="&nbsp;My Wakatime" />
-      </td>
-    </tr>
-    <!--
-    <tr>
-      <td colspan="2">
-        <!-- 📊 More Stats -- >
-        <br>
-        <img align="left" src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=4&height=28&lines=+" />
-        <details open>
-          <summary><img align="left" src="https://readme-typing-svg.herokuapp.com?font=arial&size=16&duration=1&color=fb8c00&background=FF000000&vCenter=true&multiline=false&repeat=false&width=78&height=25&lines=More+Stats" /></summary>
+        <td align="center">
+          <!-- My Stats -->
+          <img src="https://github-readme-stats-7654.vercel.app/api?username=piyush-kokane&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffdd&icon_color=90EE90&include_all_commits=true&count_private=false" alt="&nbsp;My Stats" />
+        </td>
+        <td align="center">
+          <!-- My Streak -->
+          <img src="https://github-readme-streak-stats-7654.vercel.app/api?user=piyush-kokane&theme=dark&background=00000000&title_color=fb8c00&text_color=a8fdf6&icon_color=90EE90&hide_border=true" alt="&nbsp;My Streak" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="2">
+          <!-- Contribution Graph -->
+          <img src="https://github-readme-activity-graph-7654.vercel.app/graph?username=piyush-kokane&bg_color=00000000&hide_border=true&color=ffffff&point=cccccc&title_color=fb8c00&line=fb8c00&area_color=fb8c00&area=true" alt="&nbsp;Contribution Graph" />
+        </td>
+      </tr>
+        <tr>
+        <td align="center" valign="top">
+          <!-- Most Used Language -->
+          <img src="https://github-readme-stats-7654.vercel.app/api/top-langs/?username=piyush-kokane&theme=dark&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffff&custom_title=Top%20Languages&include_all_commits=true&count_private=false&layout=compact&langs_count=6&card_width=470" alt="&nbsp;Most Used Language" />
+        </td>
+        <td align="center" valign="top">
+          <!-- My Wakatime -->
+          <img src="https://github-readme-stats-7654.vercel.app/api/wakatime?username=piyush_kokane&theme=dark&hide_border=true&bg_color=00000000&title_color=fb8c00&text_color=ffffff&layout=compact&langs_count=6" alt="&nbsp;My Wakatime" />
+        </td>
+      </tr>
+      <!--
+      <tr>
+        <td colspan="2">
+          <!-- 📊 More Stats -- >
           <br>
-          <!-- Stats 1 -- >
-          <img align="left" src="https://readme-typing-svg.herokuapp.com?background=FF000090&width=4&height=21&lines=+" />
-          <details align="left" open>
-            <summary>My Stats 1</summary>
-            <img align="left" width="100%" src="https://readme-typing-svg.herokuapp.com?background=FF000090&width=1000&height=4&lines=+" />
+          <img align="left" src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=4&height=28&lines=+" />
+          <details open>
+            <summary><img align="left" src="https://readme-typing-svg.herokuapp.com?font=arial&size=16&duration=1&color=fb8c00&background=FF000000&vCenter=true&multiline=false&repeat=false&width=78&height=25&lines=More+Stats" /></summary>
+            <br>
+            <!-- Stats 1 -- >
             <img align="left" src="https://readme-typing-svg.herokuapp.com?background=FF000090&width=4&height=21&lines=+" />
-            <pre>
-              🌞 Morning          942 commits         ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-              🌆 Daytime          1012 commits        ███████░░░░░░░░░░░░░░░░░░   27.47 % 
-              🌃 Evening          1555 commits        ███████████░░░░░░░░░░░░░░   42.21 % 
-              🌙 Night            175 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-            </pre>
-          </details>
-          <!-- Stats 2 -- >
-          <img align="left" src="https://readme-typing-svg.herokuapp.com?background=FF000090&width=4&height=21&lines=+" />
-          <details align="left" open>
-            <summary>My Stats 2</summary>
-            <img align="left" width="100%" src="https://readme-typing-svg.herokuapp.com?background=FF000090&width=1000&height=4&lines=+" />
+            <details align="left" open>
+              <summary>My Stats 1</summary>
+              <img align="left" width="100%" src="https://readme-typing-svg.herokuapp.com?background=FF000090&width=1000&height=4&lines=+" />
+              <img align="left" src="https://readme-typing-svg.herokuapp.com?background=FF000090&width=4&height=21&lines=+" />
+              <pre>
+                🌞 Morning          942 commits         ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
+                🌆 Daytime          1012 commits        ███████░░░░░░░░░░░░░░░░░░   27.47 % 
+                🌃 Evening          1555 commits        ███████████░░░░░░░░░░░░░░   42.21 % 
+                🌙 Night            175 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+              </pre>
+            </details>
+            <!-- Stats 2 -- >
             <img align="left" src="https://readme-typing-svg.herokuapp.com?background=FF000090&width=4&height=21&lines=+" />
-            <pre>
-              🌞 Morning          942 commits         ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-              🌆 Daytime          1012 commits        ███████░░░░░░░░░░░░░░░░░░   27.47 % 
-              🌃 Evening          1555 commits        ███████████░░░░░░░░░░░░░░   42.21 % 
-              🌙 Night            175 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-            </pre>
+            <details align="left" open>
+              <summary>My Stats 2</summary>
+              <img align="left" width="100%" src="https://readme-typing-svg.herokuapp.com?background=FF000090&width=1000&height=4&lines=+" />
+              <img align="left" src="https://readme-typing-svg.herokuapp.com?background=FF000090&width=4&height=21&lines=+" />
+              <pre>
+                🌞 Morning          942 commits         ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
+                🌆 Daytime          1012 commits        ███████░░░░░░░░░░░░░░░░░░   27.47 % 
+                🌃 Evening          1555 commits        ███████████░░░░░░░░░░░░░░   42.21 % 
+                🌙 Night            175 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+              </pre>
+            </details>
           </details>
-        </details>
-        <img align="left" src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=100&height=1&lines=+" />
-      </td>
-      -->
-    </tr> 
-  </table>
-</details>
+          <img align="left" src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=100&height=1&lines=+" />
+        </td>
+        -->
+      </tr> 
+    </table>
+  </details>
 
 
 
 <!-- *** Line *** -->
 <picture><img align="left" width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808050&width=800&height=2&lines=+" /></picture>
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<br>
 
 
 
 <!-- ================ TROPHIES ================ -->
-<br>
-<details>
-  <summary>
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=🏆+Trophies" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=🏆+Trophies" />
-      <img align="center" alt="🏆 Trophies" />
-    </picture>
-  </summary>
-  <div align="center">
-    <img src="https://github-profile-trophy-7654.vercel.app/api?username=piyush-kokane&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" alt="&nbsp;My Trophies" />
-  </div>
-</details>
+  <details>
+    <summary>
+      <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=🏆+Trophies" />
+        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=🏆+Trophies" />
+        <img align="center" alt="🏆 Trophies" />
+      </picture>
+    </summary>
+    <div align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-trophy-7654.vercel.app/api?username=piyush-kokane&theme=monokai&no-frame=true&no-bg=true&margin-w=10&row=1" alt="&nbsp;My Trophies" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-7654.vercel.app/api?username=piyush-kokane&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="&nbsp;My Trophies" />
+        <img alt="&nbsp;My Trophies" />
+      </picture>
+    </div>
+  </details>
 
 
 
 <!-- *** Line *** -->
 <picture><img align="left" width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808050&width=800&height=2&lines=+" /></picture>
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<br>
 
 
 
 <!-- ================ HOLOPIN BADGES ================ -->
-<br>
-<details>
-  <summary>
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=🏷️+Holopin+Badges" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=🏷️+Holopin+Badges" />
-      <img align="center" alt="🏷️ Holopin Badges" />
-    </picture>
-  </summary>
-  <div align="center">
-    <a href="https://holopin.io/@piyushkokane">
-      <img src="https://holopin.me/piyushkokane" alt="&nbsp;@piyushkokane&#39;s Holopin board">
-    </a>
-  </div>
-</details>
+  <details>
+    <summary>
+      <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=🏷️+Holopin+Badges" />
+        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&weight=600&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=250&height=60&lines=🏷️+Holopin+Badges" />
+        <img align="center" alt="🏷️ Holopin Badges" />
+      </picture>
+    </summary>
+    <div align="center">
+      <a href="https://holopin.io/@piyushkokane">
+        <img src="https://holopin.me/piyushkokane" alt="&nbsp;@piyushkokane&#39;s Holopin board">
+      </a>
+    </div>
+  </details>
 
 
 
 <!-- *** Line *** -->
 <picture><img align="left" width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808050&width=800&height=2&lines=+" /></picture>
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <br> <br>
 
 
 
 <!-- ================ FOOTER ================ -->
-<!----- Quote ----->
-<div align="center">
-  <picture>
-    <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=64&color=FB8C00&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=600&height=38&lines=%E2%80%9C" >
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&weight=600&color=808080&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=600&height=120&lines=If+you+need+more+than+3+levels;of+indentation%2C+you're;screwed+anyway%2C+and+should;fix+your+program." alt="&nbsp;Quote" >
-    <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=64&color=FB8C00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=600&height=60&lines=%E2%80%9D" >
-  </picture>
-</div>
-
-<!----- View Count ----->
-<div align="center">
-  <picture>
-    <img src="https://github-view-counter.vercel.app/api?style=nobg&label=false&color=80808080&username=piyush-kokane-5294">
-  </picture>
-</div>
-
-<!----- Footer ----->
-<img align="left" width="50" src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif">
-<img align="right" width="70" src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif">
-<img align="left" width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <!----- Quote ----->
+  <div align="center">
+    <picture>
+      <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=64&color=FB8C00&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=600&height=38&lines=%E2%80%9C" >
+      <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&weight=600&color=808080&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=600&height=120&lines=If+you+need+more+than+3+levels;of+indentation%2C+you're;screwed+anyway%2C+and+should;fix+your+program." alt="&nbsp;Quote" >
+      <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=64&color=FB8C00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=600&height=60&lines=%E2%80%9D" >
+    </picture>
+  </div>
+  
+  <!----- View Count ----->
+  <div align="center">
+    <picture>
+      <img src="https://github-view-counter.vercel.app/api?style=nobg&label=false&color=80808080&username=piyush-kokane-5294">
+    </picture>
+  </div>
+  
+  <!----- Footer ----->
+  <img align="left" width="50" src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif">
+  <img align="right" width="70" src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif">
+  <img align="left" width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

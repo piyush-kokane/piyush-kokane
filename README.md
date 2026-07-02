@@ -80,7 +80,7 @@
     <picture>
       <source media="(min-width: 992px)" srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
       <img                               src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=1000&height=1&lines=+" /> <!-- spacer -->
-      <img                               src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=42&weight=800&color=F70000&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=80&lines=About+Me" />
+      <img alt="About"                   src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=42&weight=800&color=F70000&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=80&lines=About+Me" />
     </picture>
    <!-- title -->
     <picture>
@@ -211,50 +211,81 @@
 
 
 <!-- ================ TECH STACK ================ -->
-<div align="center">
-  <!-- Image -->
+  <!----- Image ----->
   <picture>
     <source media="(max-width: 992px)"  width="0"   srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- small screen - blank -->
     <source media="(max-width: 1100px)" width="35%" srcset="/assets/Tech-Stack.png" /> <!-- medium screen -->
     <img align="left"                   width="40%" src="/assets/Tech-Stack.png" /> <!-- large screen -->
   </picture>
-
-  <!-- Paragraph - Large Screen -->
-  <picture>
-    <source media="(max-width: 992px)"   srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
-    <img align="right" alt="Tech Stack"  src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=42&weight=800&color=F70000&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=80&lines=Tech+Stack" />
-    <img align="right" alt="Title"       src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&weight=400&color=fb8c00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=450&height=20&lines=Building+digital+solutions+from+code+to+circuit" />
-    <img align="right" alt="Description" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=FFFFFF&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=110&lines=Full-stack+developer+experienced+in+MERN+stack%2C+mobile;app+%E2%80%8E+%E2%80%8E+development%2C+%E2%80%8E+%E2%80%8E+%E2%80%8E+AI%2FML%2C+%E2%80%8E+%E2%80%8E+and+%E2%80%8E+%E2%80%8E+game+%E2%80%8E+%E2%80%8E+development.;I+%E2%80%8E+also+%E2%80%8E+work+%E2%80%8E+with+%E2%80%8E+microcontrollers+%E2%80%8E+and+%E2%80%8E+SoCs%2C+%E2%80%8E+bridging;software+%E2%80%8E+%E2%80%8E+%E2%80%8E+and+%E2%80%8E+%E2%80%8E+%E2%80%8E+hardware+%E2%80%8E+%E2%80%8E+%E2%80%8E+into+%E2%80%8E+%E2%80%8E+integrated+%E2%80%8E+%E2%80%8E+solutions." />
-  </picture>
-
-  <!-- Paragraph - Medium Screen -->
-  <picture>
-    <source media="(min-width: 992px)" srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
-    <img alt="Tech Stack"              src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=42&weight=800&color=F70000&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=80&lines=Tech+Stack" />
-    <img alt="Title"                   src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&weight=400&color=fb8c00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=450&height=20&lines=Building+digital+solutions+from+code+to+circuit" />
-    <img alt="Description"             src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=FFFFFF&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=110&lines=Full-stack+developer+experienced+in+MERN+stack%2C+mobile;app+%E2%80%8E+%E2%80%8E+development%2C+%E2%80%8E+%E2%80%8E+%E2%80%8E+AI%2FML%2C+%E2%80%8E+%E2%80%8E+and+%E2%80%8E+%E2%80%8E+game+%E2%80%8E+%E2%80%8E+development.;I+%E2%80%8E+also+%E2%80%8E+work+%E2%80%8E+with+%E2%80%8E+microcontrollers+%E2%80%8E+and+%E2%80%8E+SoCs%2C+%E2%80%8E+bridging;software+%E2%80%8E+%E2%80%8E+%E2%80%8E+and+%E2%80%8E+%E2%80%8E+%E2%80%8E+hardware+%E2%80%8E+%E2%80%8E+%E2%80%8E+into+%E2%80%8E+%E2%80%8E+integrated+%E2%80%8E+%E2%80%8E+solutions." />
-  </picture>
-
-  <!-- Link -->
-  <a href="https://">
-    <!-- large screen -->
+  
+  <!----- Large Screen ----->
+  <div>
+    <!--- tech stack --->
     <picture>
-      <source media="(max-width: 992px)"                     srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
-      <img align="right" alt="See my complete Tech Stack ➤" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=4493f8&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=20&lines=🞜+See+my+complete+Tech+Stack+%E2%9E%A4" />
+      <source media="(max-width: 992px)"  srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
+      <img align="right" alt="Tech Stack" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=42&weight=800&color=F70000&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=80&lines=Tech+Stack" />
     </picture>
-    <!-- small and medium screen -->
+    <!--- title --->
     <picture>
-      <source media="(min-width: 992px)"       srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
-      <source media="(max-width: 576px)"       srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&weight=400&color=4493f8&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=20&lines=🞜+See+my+complete+Tech+Stack+%E2%9E%A4" /> <!-- small screen -->
-      <img alt="See my complete Tech Stack ➤" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=4493f8&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=20&lines=🞜+See+my+complete+Tech+Stack+%E2%9E%A4" /> <!-- medium screen -->
-    </picture>    
-  </a>
+      <source media="(max-width: 992px)"            srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
+      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&weight=400&color=fb8c00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=450&height=20&lines=Building+digital+solutions+from+code+to+circuit" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&weight=400&color=FF4500&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=450&height=20&lines=Building+digital+solutions+from+code+to+circuit" />
+      <img align="right" alt="Title" />
+    </picture>
+    <!--- description --->
+    <picture>
+      <source media="(max-width: 992px)"            srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
+      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=FFFFFF&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=110&lines=Full-stack+developer+experienced+in+MERN+stack%2C+mobile;app+%E2%80%8E+%E2%80%8E+development%2C+%E2%80%8E+%E2%80%8E+%E2%80%8E+AI%2FML%2C+%E2%80%8E+%E2%80%8E+and+%E2%80%8E+%E2%80%8E+game+%E2%80%8E+%E2%80%8E+development.;I+%E2%80%8E+also+%E2%80%8E+work+%E2%80%8E+with+%E2%80%8E+microcontrollers+%E2%80%8E+and+%E2%80%8E+SoCs%2C+%E2%80%8E+bridging;software+%E2%80%8E+%E2%80%8E+%E2%80%8E+and+%E2%80%8E+%E2%80%8E+%E2%80%8E+hardware+%E2%80%8E+%E2%80%8E+%E2%80%8E+into+%E2%80%8E+%E2%80%8E+integrated+%E2%80%8E+%E2%80%8E+solutions." />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=000000&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=110&lines=Full-stack+developer+experienced+in+MERN+stack%2C+mobile;app+%E2%80%8E+%E2%80%8E+development%2C+%E2%80%8E+%E2%80%8E+%E2%80%8E+AI%2FML%2C+%E2%80%8E+%E2%80%8E+and+%E2%80%8E+%E2%80%8E+game+%E2%80%8E+%E2%80%8E+development.;I+%E2%80%8E+also+%E2%80%8E+work+%E2%80%8E+with+%E2%80%8E+microcontrollers+%E2%80%8E+and+%E2%80%8E+SoCs%2C+%E2%80%8E+bridging;software+%E2%80%8E+%E2%80%8E+%E2%80%8E+and+%E2%80%8E+%E2%80%8E+%E2%80%8E+hardware+%E2%80%8E+%E2%80%8E+%E2%80%8E+into+%E2%80%8E+%E2%80%8E+integrated+%E2%80%8E+%E2%80%8E+solutions." />
+      <img align="right" alt="Description" />
+    </picture>
+  </div>
+  
+  <!----- Medium Screen ----->
+  <div align="center">
+    <!--- tech stack --->
+    <picture>
+      <source media="(min-width: 992px)" srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
+      <img                               src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=1000&height=1&lines=+" /> <!-- spacer -->
+      <img alt="Tech Stack"              src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=42&weight=800&color=F70000&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=80&lines=Tech+Stack" />
+    </picture>
+    <!--- title --->
+    <picture>
+      <source media="(min-width: 992px)"            srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
+      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&weight=400&color=fb8c00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=450&height=20&lines=Building+digital+solutions+from+code+to+circuit" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&weight=400&color=FF4500&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=450&height=20&lines=Building+digital+solutions+from+code+to+circuit" />
+      <img alt="Title" />
+    </picture>
+    <!--- description --->
+    <picture>
+      <source media="(min-width: 992px)"            srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
+      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=FFFFFF&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=110&lines=Full-stack+developer+experienced+in+MERN+stack%2C+mobile;app+%E2%80%8E+%E2%80%8E+development%2C+%E2%80%8E+%E2%80%8E+%E2%80%8E+AI%2FML%2C+%E2%80%8E+%E2%80%8E+and+%E2%80%8E+%E2%80%8E+game+%E2%80%8E+%E2%80%8E+development.;I+%E2%80%8E+also+%E2%80%8E+work+%E2%80%8E+with+%E2%80%8E+microcontrollers+%E2%80%8E+and+%E2%80%8E+SoCs%2C+%E2%80%8E+bridging;software+%E2%80%8E+%E2%80%8E+%E2%80%8E+and+%E2%80%8E+%E2%80%8E+%E2%80%8E+hardware+%E2%80%8E+%E2%80%8E+%E2%80%8E+into+%E2%80%8E+%E2%80%8E+integrated+%E2%80%8E+%E2%80%8E+solutions." />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=000000&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=110&lines=Full-stack+developer+experienced+in+MERN+stack%2C+mobile;app+%E2%80%8E+%E2%80%8E+development%2C+%E2%80%8E+%E2%80%8E+%E2%80%8E+AI%2FML%2C+%E2%80%8E+%E2%80%8E+and+%E2%80%8E+%E2%80%8E+game+%E2%80%8E+%E2%80%8E+development.;I+%E2%80%8E+also+%E2%80%8E+work+%E2%80%8E+with+%E2%80%8E+microcontrollers+%E2%80%8E+and+%E2%80%8E+SoCs%2C+%E2%80%8E+bridging;software+%E2%80%8E+%E2%80%8E+%E2%80%8E+and+%E2%80%8E+%E2%80%8E+%E2%80%8E+hardware+%E2%80%8E+%E2%80%8E+%E2%80%8E+into+%E2%80%8E+%E2%80%8E+integrated+%E2%80%8E+%E2%80%8E+solutions." />
+      <img alt="Description" />
+    </picture>
+  </div>
 
-</div>
+  <!----- Link ----->
+  <div align="center">
+    <a href="https://">
+      <!-- large screen -->
+      <picture>
+        <source media="(max-width: 992px)"                     srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
+        <img align="right" alt="See my complete Tech Stack ➤" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=4493f8&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=20&lines=🞜+See+my+complete+Tech+Stack+%E2%9E%A4" />
+      </picture>
+      <!-- small and medium screen -->
+      <picture>
+        <source media="(min-width: 992px)"       srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
+        <source media="(max-width: 576px)"       srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&weight=400&color=4493f8&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=20&lines=🞜+See+my+complete+Tech+Stack+%E2%9E%A4" /> <!-- small screen -->
+        <img alt="See my complete Tech Stack ➤" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=4493f8&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=20&lines=🞜+See+my+complete+Tech+Stack+%E2%9E%A4" /> <!-- medium screen -->
+      </picture>    
+    </a>
+  </div>
 
 
 
 <!-- *** Line *** -->
+<picture><img width="100%" src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=800&height=2&lines=+" /></picture>
 <br> <br>
 <picture><img width="100%" src="https://readme-typing-svg.herokuapp.com?background=80808050&width=800&height=2&lines=+" /></picture>
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->

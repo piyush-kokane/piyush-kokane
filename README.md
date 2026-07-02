@@ -361,7 +361,7 @@
     </summary>
     <div align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-trophy-7654.vercel.app/api?username=piyush-kokane&theme=monokai&no-frame=true&no-bg=true&margin-w=10&row=1" alt="&nbsp;My Trophies" />
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-trophy-7654.vercel.app/api?username=piyush-kokane&theme=dark_lover&no-frame=true&no-bg=true&margin-w=10&row=1" alt="&nbsp;My Trophies" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-7654.vercel.app/api?username=piyush-kokane&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="&nbsp;My Trophies" />
         <img alt="&nbsp;My Trophies" />
       </picture>

@@ -223,7 +223,7 @@
     <!--- spacer --->
     <picture>
       <source media="(max-width: 992px)" srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
-      <img align="right"                 src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=400&height=50&lines=+" /> <!-- spacer -->
+      <img align="right"                 src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=400&height=20&lines=+" /> <!-- spacer -->
     </picture>
     <!--- tech stack --->
     <picture>

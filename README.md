@@ -29,15 +29,15 @@
     <!-- large screen -->
     <picture>
       <source media="(max-width: 576px)" srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
-      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=arial&size=18&weight=600&duration=3000&pause=5000&color=00FF00&background=FF000000&center=true&vCenter=true&width=400&height=32&lines=~+Welcome+to+my+GitHub!+~;~+A+Full+Stack+Developer+~;~+A+UI%2FUX+and+Product+designer+~;~+I+%E2%9D%A4%EF%B8%8F+coding+~;~+I+explore+cool+tech+projects+~;~+Let's+collaborate!+~" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=arial&size=18&weight=600&duration=3000&pause=5000&color=FF4500&background=FF000000&center=true&vCenter=true&width=400&height=32&lines=~+Welcome+to+my+GitHub!+~;~+A+Full+Stack+Developer+~;~+A+UI%2FUX+and+Product+designer+~;~+I+%E2%9D%A4%EF%B8%8F+coding+~;~+I+explore+cool+tech+projects+~;~+Let's+collaborate!+~" />
+      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=arial&size=16&weight=600&duration=3000&pause=5000&color=00FF00&background=FF000000&center=true&vCenter=true&width=400&height=32&lines=~+Welcome+to+my+GitHub!+~;~+A+Full+Stack+Developer+~;~+A+UI%2FUX+and+Product+designer+~;~+I+%E2%9D%A4%EF%B8%8F+coding+~;~+I+explore+cool+tech+projects+~;~+Let's+collaborate!+~" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=arial&size=16&weight=600&duration=3000&pause=5000&color=FF4500&background=FF000000&center=true&vCenter=true&width=400&height=32&lines=~+Welcome+to+my+GitHub!+~;~+A+Full+Stack+Developer+~;~+A+UI%2FUX+and+Product+designer+~;~+I+%E2%9D%A4%EF%B8%8F+coding+~;~+I+explore+cool+tech+projects+~;~+Let's+collaborate!+~" />
       <img alt="My title" />
     </picture>
     <!-- small screen -->
     <picture>
       <source media="(min-width: 576px)" srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
-      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&weight=600&duration=3000&pause=5000&color=00FF00&background=FF000000&center=true&vCenter=true&width=400&height=32&lines=~+Welcome+to+my+GitHub!+~;~+A+Full+Stack+Developer+~;~+A+UI%2FUX+and+Product+designer+~;~+I+%E2%9D%A4%EF%B8%8F+coding+~;~+I+explore+cool+tech+projects+~;~+Let's+collaborate!+~" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&weight=600&duration=3000&pause=5000&color=FF4500&background=FF000000&center=true&vCenter=true&width=400&height=32&lines=~+Welcome+to+my+GitHub!+~;~+A+Full+Stack+Developer+~;~+A+UI%2FUX+and+Product+designer+~;~+I+%E2%9D%A4%EF%B8%8F+coding+~;~+I+explore+cool+tech+projects+~;~+Let's+collaborate!+~" />
+      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=600&duration=3000&pause=5000&color=00FF00&background=FF000000&center=true&vCenter=true&width=400&height=32&lines=~+Welcome+to+my+GitHub!+~;~+A+Full+Stack+Developer+~;~+A+UI%2FUX+and+Product+designer+~;~+I+%E2%9D%A4%EF%B8%8F+coding+~;~+I+explore+cool+tech+projects+~;~+Let's+collaborate!+~" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=600&duration=3000&pause=5000&color=FF4500&background=FF000000&center=true&vCenter=true&width=400&height=32&lines=~+Welcome+to+my+GitHub!+~;~+A+Full+Stack+Developer+~;~+A+UI%2FUX+and+Product+designer+~;~+I+%E2%9D%A4%EF%B8%8F+coding+~;~+I+explore+cool+tech+projects+~;~+Let's+collaborate!+~" />
       <img alt="My title" />
     </picture>
   </div>
@@ -51,13 +51,13 @@
     <!--- about --->
     <picture>
       <source media="(max-width: 992px)" srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
-      <img align="left" alt="About"      src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=42&weight=800&color=F70000&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=500&height=80&lines=About+Me" />
+      <img align="left" alt="About"      src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&weight=800&color=F70000&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=500&height=80&lines=About+Me" />
     </picture>
     <!--- title --->
     <picture>
       <source media="(max-width: 992px)"            srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
-      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&weight=400&color=fb8c00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=20&lines=Building+the+future+one+commit+at+a+time" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&weight=400&color=FF4500&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=20&lines=Building+the+future+one+commit+at+a+time" />
+      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=fb8c00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=20&lines=Building+the+future+one+commit+at+a+time" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=FF4500&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=20&lines=Building+the+future+one+commit+at+a+time" />
       <img align="left" alt="Title" />
     </picture>
     <!--- description --->
@@ -70,7 +70,7 @@
     <!--- spacer --->
     <picture>
       <source media="(max-width: 992px)" srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
-      <img                               src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=10&height=70&lines=+" /> <!-- spacer -->
+      <img                               src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=10&height=60&lines=+" /> <!-- spacer -->
     </picture>
   </div>
   
@@ -80,13 +80,13 @@
     <picture>
       <source media="(min-width: 992px)" srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
       <img                               src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=1000&height=1&lines=+" /> <!-- spacer -->
-      <img alt="About"                   src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=42&weight=800&color=F70000&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=80&lines=About+Me" />
+      <img alt="About"                   src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&weight=800&color=F70000&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=80&lines=About+Me" />
     </picture>
    <!-- title -->
     <picture>
       <source media="(min-width: 992px)"            srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
-      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&weight=400&color=fb8c00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=450&height=20&lines=Building+the+future+one+commit+at+a+time" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&weight=400&color=FF4500&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=450&height=20&lines=Building+the+future+one+commit+at+a+time" />
+      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=fb8c00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=450&height=20&lines=Building+the+future+one+commit+at+a+time" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=FF4500&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=450&height=20&lines=Building+the+future+one+commit+at+a+time" />
       <img alt="Title" />
     </picture>
     <!-- description-->
@@ -105,55 +105,55 @@
      <!-- large screen -->
       <picture>
         <source media="(max-width: 992px)"            srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
-        <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=FFFFFF&background=FF000000&multiline=true&duration=1&repeat=false&width=270&height=30&lines=More+About+Me" />
-        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=000000&background=FF000000&multiline=true&duration=1&repeat=false&width=270&height=30&lines=More+About+Me" />
+        <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=400&color=FFFFFF&background=FF000000&multiline=true&duration=1&repeat=false&width=270&height=30&lines=More+About+Me" />
+        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=400&color=000000&background=FF000000&multiline=true&duration=1&repeat=false&width=270&height=30&lines=More+About+Me" />
         <img align="center" alt="More About Me" />
       </picture>
       <!-- medium screen -->
       <picture>
         <source media="(max-width: 576px)" srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
         <source media="(min-width: 992px)" srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
-        <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=110&height=50&lines=More+About+Me" />
-        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=110&height=50&lines=More+About+Me" />
+        <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=400&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=110&height=50&lines=More+About+Me" />
+        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=400&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=110&height=50&lines=More+About+Me" />
         <img align="center" alt="More About Me" />
       </picture>
       <!-- small screen -->
       <picture>
         <source media="(min-width: 576px)"            srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
-        <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=400&color=FFFFFF&background=FF000000&multiline=true&duration=1&repeat=false&width=270&height=30&lines=More+About+Me" />
-        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=400&color=000000&background=FF000000&multiline=true&duration=1&repeat=false&width=270&height=30&lines=More+About+Me" />
+        <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&weight=400&color=FFFFFF&background=FF000000&multiline=true&duration=1&repeat=false&width=270&height=30&lines=More+About+Me" />
+        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&weight=400&color=000000&background=FF000000&multiline=true&duration=1&repeat=false&width=270&height=30&lines=More+About+Me" />
         <img align="center" alt="More About Me" />
       </picture>
     </summary>
     <!--
     <!-- **List elements -->
     <picture>
-       <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=300&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=16&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%96%A5%EF%B8%8F+Currently+working+on+MERN+Stack" />
-       <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=300&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=16&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%96%A5%EF%B8%8F+Currently+working+on+MERN+Stack" />
+       <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&weight=300&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=15&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%96%A5%EF%B8%8F+Currently+working+on+MERN+Stack" />
+       <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&weight=300&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=15&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%96%A5%EF%B8%8F+Currently+working+on+MERN+Stack" />
        <img alt="🖥️ Currently working on MERN Stack" />       
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=300&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=16&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%93%9A+Currently+learning+Android+Studio" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=300&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=16&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%93%9A+Currently+learning+Android+Studio" />
+      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&weight=300&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=15&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%93%9A+Currently+learning+Android+Studio" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&weight=300&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=15&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%93%9A+Currently+learning+Android+Studio" />
       <img alt="📚 Currently learning Android Studio" />
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=300&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=16&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Pursuing+B.Sc.+cs.+at+MIT-WPU" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=300&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=16&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Pursuing+B.Sc.+cs.+at+MIT-WPU" />
+      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&weight=300&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=15&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Pursuing+B.Sc.+cs.+at+MIT-WPU" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&weight=300&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=15&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Pursuing+B.Sc.+cs.+at+MIT-WPU" />
       <img alt="👨‍🎓 Pursuing B.Sc. cs. at MIT-WPU" />
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=300&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=16&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%A4%9D+looking+to+collaborate+on+cool+projects" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=300&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=16&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%A4%9D+looking+to+collaborate+on+cool+projects" />
+      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&weight=300&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=15&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%A4%9D+looking+to+collaborate+on+cool+projects" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&weight=300&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=15&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%A4%9D+looking+to+collaborate+on+cool+projects" />
       <img alt="🤝 looking to collaborate on cool projects" />
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=300&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=16&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Fun+fact%3A+See+my+commits+in+year+2023" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=300&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=16&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Fun+fact%3A+See+my+commits+in+year+2023" />
+      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&weight=300&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=15&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Fun+fact%3A+See+my+commits+in+year+2023" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&weight=300&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=15&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Fun+fact%3A+See+my+commits+in+year+2023" />
       <img alt="😄 Fun fact: See my commits in year 2023" />
     </picture>
     <a href="https://">
-      <img alt="😄 Check out my Portfolio ➤" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&weight=400&color=4493f8&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=16&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Check+out+my+Portfolio+%E2%9E%A4" />
+      <img alt="😄 Check out my Portfolio ➤" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&weight=400&color=4493f8&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=15&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%98%84+Check+out+my+Portfolio+%E2%9E%A4" />
     </a>
   </details>
 

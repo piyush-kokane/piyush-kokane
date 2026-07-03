@@ -51,13 +51,13 @@
     <!--- about --->
     <picture>
       <source media="(max-width: 992px)" srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
-      <img align="left" alt="About"      src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&weight=800&color=F70000&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=500&height=80&lines=About+Me" />
+      <img align="left" alt="About"      src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&weight=800&color=F70000&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=500&height=70&lines=About+Me" />
     </picture>
     <!--- title --->
     <picture>
       <source media="(max-width: 992px)"            srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
-      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=fb8c00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=20&lines=Building+the+future+one+commit+at+a+time" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=FF4500&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=20&lines=Building+the+future+one+commit+at+a+time" />
+      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=17&weight=400&color=fb8c00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=17&lines=Building+the+future+one+commit+at+a+time" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=17&weight=400&color=FF4500&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=17&lines=Building+the+future+one+commit+at+a+time" />
       <img align="left" alt="Title" />
     </picture>
     <!--- description --->
@@ -70,7 +70,7 @@
     <!--- spacer --->
     <picture>
       <source media="(max-width: 992px)" srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
-      <img                               src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=10&height=60&lines=+" /> <!-- spacer -->
+      <img                               src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=10&height=55&lines=+" /> <!-- spacer -->
     </picture>
   </div>
   
@@ -80,13 +80,13 @@
     <picture>
       <source media="(min-width: 992px)" srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
       <img                               src="https://readme-typing-svg.herokuapp.com?background=FF000000&width=1000&height=1&lines=+" /> <!-- spacer -->
-      <img alt="About"                   src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&weight=800&color=F70000&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=80&lines=About+Me" />
+      <img alt="About"                   src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&weight=800&color=F70000&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=450&height=70&lines=About+Me" />
     </picture>
    <!-- title -->
     <picture>
       <source media="(min-width: 992px)"            srcset="https://readme-typing-svg.herokuapp.com?&background=FF000000&width=1&height=1&lines=+" /> <!-- blank -->
-      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=fb8c00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=450&height=20&lines=Building+the+future+one+commit+at+a+time" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&weight=400&color=FF4500&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=450&height=20&lines=Building+the+future+one+commit+at+a+time" />
+      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=17&weight=400&color=fb8c00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=450&height=17&lines=Building+the+future+one+commit+at+a+time" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=17&weight=400&color=FF4500&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=450&height=17&lines=Building+the+future+one+commit+at+a+time" />
       <img alt="Title" />
     </picture>
     <!-- description-->

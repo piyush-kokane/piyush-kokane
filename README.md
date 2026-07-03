@@ -462,9 +462,9 @@
   <!----- Quote ----->
   <div align="center">
     <picture>
-      <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=64&color=FB8C00&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=600&height=38&lines=%E2%80%9C" >
-      <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&weight=600&color=808080&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=600&height=120&lines=If+you+need+more+than+3+levels;of+indentation%2C+you're;screwed+anyway%2C+and+should;fix+your+program." alt="&nbsp;Quote" >
-      <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=64&color=FB8C00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=600&height=60&lines=%E2%80%9D" >
+      <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=60&color=FB8C00&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=500&height=35&lines=%E2%80%9C" >
+      <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&weight=600&color=808080&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=500&height=105&lines=If+you+need+more+than+3+levels;of+indentation%2C+you're;screwed+anyway%2C+and+should;fix+your+program." alt="&nbsp;Quote" >
+      <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=60&color=FB8C00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=56&lines=%E2%80%9D" >
     </picture>
   </div>
   

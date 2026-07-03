@@ -463,7 +463,7 @@
   <div align="center">
     <picture>
       <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=60&color=FB8C00&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=500&height=35&lines=%E2%80%9C" >
-      <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&weight=600&color=808080&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=500&height=105&lines=If+you+need+more+than+3+levels;of+indentation%2C+you're;screwed+anyway%2C+and+should;fix+your+program." alt="&nbsp;Quote" >
+      <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&weight=600&color=808080&background=FF000000&center=true&multiline=true&duration=1&repeat=false&width=500&height=115&lines=If+you+need+more+than+3+levels;of+indentation%2C+you're;screwed+anyway%2C+and+should;fix+your+program." alt="&nbsp;Quote" >
       <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=60&color=FB8C00&background=FF000000&center=true&vCenter=true&duration=1&repeat=false&width=500&height=56&lines=%E2%80%9D" >
     </picture>
   </div>

@@ -20,7 +20,7 @@
   <!----- Profile ----->
   <div align="center">
     <picture>
-      <img width="300" alt="Profile pic" src="/assets/Black_and_White_Profile_Picture.png" />
+      <img width="300" alt="Profile pic" src="/assets/profile-img-1-B&W.png" />
     </picture>
   </div>
   

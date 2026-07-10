@@ -138,9 +138,9 @@
       <img alt="📚 Currently learning Android Studio" />
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&weight=300&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=15&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Pursuing+B.Sc.+cs.+at+MIT-WPU" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&weight=300&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=15&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Pursuing+B.Sc.+cs.+at+MIT-WPU" />
-      <img alt="👨‍🎓 Pursuing B.Sc. cs. at MIT-WPU" />
+      <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&weight=300&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=15&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Pursuing+M.Sc.+cs.+at+MIT-WPU" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&weight=300&color=000000&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=15&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Pursuing+M.Sc.+cs.+at+MIT-WPU" />
+      <img alt="👨‍🎓 Pursuing M.Sc. cs. at MIT-WPU" />
     </picture>
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&weight=300&color=FFFFFF&background=FF000000&vCenter=true&duration=1&repeat=false&width=320&height=15&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%A2+%F0%9F%A4%9D+looking+to+collaborate+on+cool+projects" />

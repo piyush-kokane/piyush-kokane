@@ -185,7 +185,7 @@
   &nbsp;&nbsp;&nbsp;
     
   <!-- Email -->
-  <a href="mailto:pjkokane21@gmail.com">
+  <a href="mailto:piyush.kokane.in@gmail.com">
     <img alt="Email" src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=32" /></a>
   &nbsp;&nbsp;&nbsp;
     

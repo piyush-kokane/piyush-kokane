@@ -170,7 +170,7 @@
   &nbsp;&nbsp;&nbsp;
   
   <!-- X -->
-  <a href="https://x.com/Piyush_J_K">
+  <a href="https://x.com/piyush_kokane_">
     <img alt="X" src="https://www.readmecodegen.com/api/social-icon?name=x&color=%233b82f6&size=32" /></a>
   &nbsp;&nbsp;&nbsp;
   
@@ -193,10 +193,6 @@
   <a href="https://">
     <img alt="WhatsApp" src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=32" /></a>
   &nbsp;&nbsp;&nbsp;
-    
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/piyush.k_3700">
-    <img alt="Instagram" src="https://www.readmecodegen.com/api/social-icon?name=instagram&color=%23d62976&size=32" /></a>
 
 </div>
 
